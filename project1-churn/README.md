@@ -38,7 +38,7 @@ This project aims to address the following key business questions related to cus
 
 #### III. Analysis Documents
 
-1. [EDA, behavioral analysis, and data preparation for model building]
+1. [EDA, behavioral analysis, and data preparation for model building](https://nbviewer.org/github/DungNguyen396/DungNguyen-portfolio/blob/main/project1-churn/eda.ipynb)
 
-2. [Build models from Big Query, and segment customers based on behavior]
-3. [Explain the results from the Big Query and suggest actions]
+2. [Build models from Big Query, and segment customers based on behavior](https://nbviewer.org/github/DungNguyen396/DungNguyen-portfolio/blob/main/project1-churn/explain.ipynb)
+3. [Explain the results from the Big Query and suggest actions](./sql.md)
