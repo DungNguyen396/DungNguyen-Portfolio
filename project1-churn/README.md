@@ -34,7 +34,7 @@ This project aims to address the following key business questions related to cus
    Customers were segmented based on behavioral patterns, enabling clearer differentiation between churn-prone and loyal customer groups.
 
 6. **Behavioral threshold monitoring framework**  
-   A set of behavioral thresholds was defined to support ongoing monitoring and early warning signals for churn risk.
+   A set of behavioral thresholds was defined to support ongoing monitoring and early warning signals for churn risk.<br><br>
 
 ### III. Analysis Documents
 
