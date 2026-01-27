@@ -1,5 +1,5 @@
-### Project 1: Behavioral Analysis and Customer Churn Prediction
-#### I. Business Questions
+## Project 1: Behavioral Analysis and Customer Churn Prediction
+### I. Business Questions
 
 This project aims to address the following key business questions related to customer churn:
 
@@ -15,7 +15,7 @@ This project aims to address the following key business questions related to cus
 4. **Can churn prevention be personalized at the individual level?**  
    Can insights be tailored to each customer to enable targeted and proactive interventions?<br><br>
    
-#### II. Key Findings & Outcomes
+### II. Key Findings & Outcomes
 
 1. **Overall churn rate and high-level patterns**  
    A descriptive statistical analysis was conducted to provide an overall view of the churn rate and its distribution across the customer base.
@@ -27,8 +27,8 @@ This project aims to address the following key business questions related to cus
    Critical behavioral breakpoints were identified, where the probability of churn increases sharply once certain thresholds are crossed.
 
 4. **Predictive and explanatory modeling**  
-   - A **primary churn prediction model** was developed to estimate the likelihood of churn.  
-   - A **secondary explanatory model** was built to interpret and explain the main drivers of churn for each individual customer.
+   - A primary churn prediction model was developed to estimate the likelihood of churn.  
+   - A secondary explanatory model was built to interpret and explain the main drivers of churn for each individual customer.
 
 5. **Behavior-based customer segmentation**  
    Customers were segmented based on behavioral patterns, enabling clearer differentiation between churn-prone and loyal customer groups.
@@ -36,7 +36,7 @@ This project aims to address the following key business questions related to cus
 6. **Behavioral threshold monitoring framework**  
    A set of behavioral thresholds was defined to support ongoing monitoring and early warning signals for churn risk.
 
-#### III. Analysis Documents
+### III. Analysis Documents
 
 1. [EDA, behavioral analysis, and data preparation for model building](https://nbviewer.org/github/DungNguyen396/DungNguyen-portfolio/blob/main/project1-churn/eda.ipynb)
 2. [Build models from Big Query, and segment customers based on behavior](./query.md)
