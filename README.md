@@ -1,4 +1,4 @@
-## About Me
+## 👤 About Me 
 
 Hi, I’m **Nguyen Thanh Dung** — a finance and banking professional with a strong focus on data analysis.
 
@@ -14,13 +14,13 @@ In an era of rapid innovation, multiple perspectives often lead to better questi
 Below are some personal projects where I apply this mindset to explore and solve problems across different domains using data.<br><br><br>
 
 
-### Project 1: Behavioral Analysis and Customer Churn Prediction [→ From data to decision](project1-churn/)
+### 📉 Project 1: Behavioral Analysis and Customer Churn Prediction [→ From data to decision](project1-churn/)
 
 This project focuses on analyzing customer behavior and building predictive models to understand and anticipate customer churn.
 
 The work addresses key business questions such as the severity of churn, the behavioral patterns leading to churn, the feasibility of early churn prediction, and the potential for personalized intervention strategies.
 
-**Key outcomes:**
+**🔑 Key outcomes:**
 - Provided a high-level view of customer churn and its overall impact
 - Identified churn as a result of behavioral sequences rather than isolated actions
 - Detected critical behavioral breakpoints associated with increased churn risk
