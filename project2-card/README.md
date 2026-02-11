@@ -47,4 +47,5 @@ Proposed a behavioral shift from Debit to Credit within low-risk categories, aim
 
 ### 📂 Analysis Documents
 1. [Data Collecting](/project2-card/query.md)
+2. [Card Portfolio Value Analysis](https://lookerstudio.google.com/reporting/ffd1b33f-f665-4a87-bec8-3ee9fb85a29b)
 
