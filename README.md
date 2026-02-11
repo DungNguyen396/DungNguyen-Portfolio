@@ -1,17 +1,15 @@
 ## 👤 About Me 
 
-Hi, I’m **Nguyen Thanh Dung** — a finance and banking professional with a strong focus on data analysis.
+Hi, I’m **Nguyen Thanh Dung** — a Finance & Banking specialist transitioning into the field of Data Analytics.
 
-I have 7 years of experience in finance and banking, including over 2 years in data analysis within the financial sector. My background allows me to understand not only the data itself, but also the business logic and constraints behind it.
+With 7 years of experience in the banking industry, including over 2 years dedicated to financial data analysis, I possess a unique vantage point: I don't just see the numbers, I understand the business logic and strategic drivers behind them.
 
-Although I don’t come from a traditional technical background, stepping into the role of a data analyst was not as difficult as it might seem. With a strong learning mindset and the support of AI tools, technical barriers are significantly reduced which allowing more focus on problem framing, assumptions, and interpretation.
+Coming from a non-technical background, I view the rise of AI not as a challenge, but as a powerful equalizer. By leveraging AI to navigate technical complexities, I am able to redirect my focus toward what truly drives value: precise problem framing, rigorous assumption testing, and strategic interpretation.
 
-So what truly makes the difference?  
-It’s not just technical skills, but **the ability to think critically and view problems from multiple perspectives**. Being highly skilled in one domain doesn’t guarantee exclusivity; fresh viewpoints from other fields can often lead to equally strong or even better solutions.
+**What sets a Data Analyst apart in today’s landscape?**<br>
+In my view, it is the ability to think critically across domains. Deep expertise in one field is valuable, but fresh, multi-disciplinary perspectives are what often unlock the most innovative and actionable solutions. In an era of rapid innovation, this diversity of thought leads to better questions, more realistic modeling, and insights that actually move the needle for the business.
 
-In an era of rapid innovation, multiple perspectives often lead to better questions, more realistic assumptions and more actionable insights, especially in data analytics.
-
-Below are some personal projects where I apply this mindset to explore and solve problems across different domains using data.<br><br><br>
+Below are some personal projects where I apply this mindset to explore and solve real problems through the lens of data.<br><br><br>
 
 ---
 
