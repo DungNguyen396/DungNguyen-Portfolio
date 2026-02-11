@@ -31,7 +31,7 @@ Quantitative analysis identifies Medium Income users and Bills/Shopping categori
 
 **3. Proven Sustainability via DTI Metrics**
 
-Established a safe average DTI range ($2.3 - 2.6$), confirming that existing debt does not impede short-term spending capacity and the portfolio maintains a low risk-lag.
+Established a safe average DTI range (2.3 - 2.6), confirming that existing debt does not impede short-term spending capacity and the portfolio maintains a low risk-lag.
 
 **4. Discovery of "Cash-First" Discipline**
 
