@@ -46,6 +46,6 @@ Recorded a strategic migration of capital toward Healthcare (+2.11%) as other se
 Proposed a behavioral shift from Debit to Credit within low-risk categories, aiming to increase ARPU without escalating systemic risk levels.<br><br>
 
 ### 📂 Analysis Documents
-1. [Data Collecting](/project2-card/query.md)
+1. [Data Collecting](./query.md)
 2. [Card Portfolio Value Analysis](https://lookerstudio.google.com/reporting/ffd1b33f-f665-4a87-bec8-3ee9fb85a29b)
 
