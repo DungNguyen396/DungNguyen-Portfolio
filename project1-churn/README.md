@@ -6,11 +6,11 @@ This project shifts from descriptive statistics to proactive churn management:
 
 **1. Commercial Impact of Churn:**<br>
 
-Beyond the rate itself, what is the actual severity of churn in terms of revenue loss and market share      erosion?
+Beyond the rate itself, what is the actual severity of churn in terms of revenue loss and market share erosion?
 
 **2. Behavioral Breakpoints:**<br>
 
-What specific sequences of actions—rather than isolated incidents—trigger a transition from a "Loyal" to an "At-Risk" state?
+What specific sequences of actions rather than isolated incidents trigger a transition from a "Loyal" to an "At-Risk" state?
 
 **3. Early Warning Systems:** <br>
 
