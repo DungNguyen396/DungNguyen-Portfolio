@@ -5,15 +5,19 @@
 This project shifts from descriptive statistics to proactive churn management:
 
 **1. Commercial Impact of Churn:**<br>
+
 Beyond the rate itself, what is the actual severity of churn in terms of revenue loss and market share      erosion?
 
 **2. Behavioral Breakpoints:**<br>
+
 What specific sequences of actions—rather than isolated incidents—trigger a transition from a "Loyal" to an "At-Risk" state?
 
 **3. Early Warning Systems:** <br>
+
 How can we identify the "point of no return" to intervene effectively before the final transaction occurs?
 
 **4. Strategic Retention:** <br>
+
 How can churn prevention be personalized at scale to ensure intervention costs do not exceed the customer's lifetime value?<br><br>
    
 
