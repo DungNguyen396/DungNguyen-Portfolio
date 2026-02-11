@@ -29,3 +29,17 @@ The work addresses key business questions such as the severity of churn, the beh
 - Detected critical behavioral breakpoints associated with increased churn risk
 - Built predictive and explanatory models to support early and personalized churn intervention
 - Segmented customers based on behavioral patterns and defined behavioral thresholds for monitoring
+
+---
+
+### 📉 Project 2: Card Portfolio Value and Sustainability Analysis
+This project focuses on identifying the source of value and assessing the sustainability of the card portfolio based on the relationship between spending behavior and customer financial health.
+
+[→ 🔎 Analysis Detail](project2-card)
+
+**🔑 Key Outcomes:
+- Core Value Positioning: Identifying the Middle Income group and essential goods/services (Bills, Shopping) as the most stable revenue pillars.
+- Demonstrating Sustainability: Confirming low risk levels with a safe DTI (Debit/Credit Interchange Rate) (2.3 - 2.6) and the ability to maintain good cash liquidity for customers.
+- Decoding Payment Behavior: Discovering a preference for using debit cards for essential needs, demonstrating financial discipline even among those with high debt levels.
+- Identifying spending shifts: Note the portfolio's adaptation as cash flow shifts towards defensive sectors (Healthcare) to preserve overall sales.
+- Proposing safe growth: Focus on shifting spending behavior from Debit to Credit in high-income segments and low-risk industries.
