@@ -1,43 +1,41 @@
 ## Project 1: Behavioral Analysis and Customer Churn Prediction
-### ❓ Business Questions 
+**Project Background:** This project was initiated following a request from the internal Data Analysis team to develop a robust predictive model for customer churn. The primary objective was to move beyond retrospective reporting and establish an early-warning system for the strategic departments. By identifying high-risk behavioral patterns before a customer actually leaves, the organization can proactively deploy retention campaigns. This analysis serves as the foundation for data-driven interventions aimed at stabilizing the customer base and protecting long-term revenue.
 
-This project aims to address the following key business questions related to customer churn:
+### ❓ Business Questions
+This project shifts from descriptive statistics to proactive churn management:
 
-1. **How significant is customer churn?**  
-   Is churn a critical issue, and how severe is it across the customer base?
+1. Commercial Impact of Churn: Beyond the rate itself, what is the actual severity of churn in terms of revenue loss and market share erosion?
 
-2. **Which customer behaviors are associated with churn?**  
-   What patterns or actions tend to appear before a customer leaves?
+2. Behavioral Breakpoints: What specific sequences of actions—rather than isolated incidents—trigger a transition from a "Loyal" to an "At-Risk" state?
 
-3. **Can customer churn be predicted early?**  
-   Is it possible to identify customers at risk of churn in advance to support early retention efforts?
+3. Early Warning Systems: How can we identify the "point of no return" to intervene effectively before the final transaction occurs?
 
-4. **Can churn prevention be personalized at the individual level?**  
-   Can insights be tailored to each customer to enable targeted and proactive interventions?<br><br>
+4. Strategic Retention: How can churn prevention be personalized at scale to ensure intervention costs do not exceed the customer's lifetime value?<br><br>
    
+
 ### 🔑 Key Findings & Outcomes
+1. High-Level Churn Impact Visualization
 
-1. **Overall churn rate and high-level patterns**  
-   A descriptive statistical analysis was conducted to provide an overall view of the churn rate and its distribution across the customer base.
+Provided a comprehensive view of churn severity, mapping its direct correlation to portfolio value decay.
 
-2. **Churn is driven by behavioral sequences, not single actions**  
-   The analysis shows that churn rarely results from a single behavior. Instead, it is driven by a sequence of actions, typically involving one primary behavior supported by several contributing behaviors.
+2. Sequential Churn Drivers
 
-3. **Identification of behavioral breakpoints**  
-   Critical behavioral breakpoints were identified, where the probability of churn increases sharply once certain thresholds are crossed.
+Proved that churn is driven by behavioral sequences rather than single actions, typically involving a primary negative behavior reinforced by secondary triggers.
 
-4. **Predictive and explanatory modeling**  
-   - A primary churn prediction model was developed to estimate the likelihood of churn.  
-   - A secondary explanatory model was built to interpret and explain the main drivers of churn for each individual customer.
+3. Threshold Identification
 
-5. **Behavior-based customer segmentation**  
-   Customers were segmented based on behavioral patterns, enabling clearer differentiation between churn-prone and loyal customer groups.
+Identified critical behavioral thresholds where churn probability increases sharply, allowing for data-driven monitoring.
 
-6. **Behavioral threshold monitoring framework**  
-   A set of behavioral thresholds was defined to support ongoing monitoring and early warning signals for churn risk.<br><br>
+4. Predictive & Explanatory Modeling
+
+Developed a primary prediction model to estimate churn likelihood and a secondary model to interpret individual churn drivers for personalized action.
+
+5. Behavior-Based Framework
+
+Established a monitoring framework using defined behavioral thresholds to support ongoing, proactive retention efforts.<br><br>
 
 ### 📁 Analysis Documents
 
-1. [EDA, behavioral analysis, and data preparation for model building](https://nbviewer.org/github/DungNguyen396/DungNguyen-portfolio/blob/main/project1-churn/eda.ipynb)
-2. [Build models from Big Query, and segment customers based on behavior](./query.md)
-4. [Explain the results from the Big Query and suggest actions](https://nbviewer.org/github/DungNguyen396/DungNguyen-portfolio/blob/main/project1-churn/explain.ipynb)
+1. [EDA, Behavioral Analysis, and Data Preparation](https://nbviewer.org/github/DungNguyen396/DungNguyen-portfolio/blob/main/project1-churn/eda.ipynb)
+2. [BigQuery Model Building & Behavioral Segmentation](./query.md)
+4. [Insight Interpretation and Strategic Action Plan](https://nbviewer.org/github/DungNguyen396/DungNguyen-portfolio/blob/main/project1-churn/explain.ipynb)
