@@ -43,7 +43,8 @@ Recorded a strategic migration of capital toward Healthcare (+2.11%) as other se
 
 **6. Framework for Low-Risk Growth**
 
-Proposed a behavioral shift from Debit to Credit within low-risk categories, aiming to increase ARPU without escalating systemic risk levels.
+Proposed a behavioral shift from Debit to Credit within low-risk categories, aiming to increase ARPU without escalating systemic risk levels.<br><br>
 
 ### 📂 Analysis Documents
+1. [Data Collecting](/project2-card/query.md)
 
