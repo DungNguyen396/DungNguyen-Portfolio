@@ -4,33 +4,37 @@
 ### ❓ Business Questions
 This project shifts from descriptive statistics to proactive churn management:
 
-1. Commercial Impact of Churn: Beyond the rate itself, what is the actual severity of churn in terms of revenue loss and market share erosion?
+**1. Commercial Impact of Churn:**<br>
+Beyond the rate itself, what is the actual severity of churn in terms of revenue loss and market share      erosion?
 
-2. Behavioral Breakpoints: What specific sequences of actions—rather than isolated incidents—trigger a transition from a "Loyal" to an "At-Risk" state?
+**2. Behavioral Breakpoints:**<br>
+What specific sequences of actions—rather than isolated incidents—trigger a transition from a "Loyal" to an "At-Risk" state?
 
-3. Early Warning Systems: How can we identify the "point of no return" to intervene effectively before the final transaction occurs?
+**3. Early Warning Systems:** <br>
+How can we identify the "point of no return" to intervene effectively before the final transaction occurs?
 
-4. Strategic Retention: How can churn prevention be personalized at scale to ensure intervention costs do not exceed the customer's lifetime value?<br><br>
+**4. Strategic Retention:** <br>
+How can churn prevention be personalized at scale to ensure intervention costs do not exceed the customer's lifetime value?<br><br>
    
 
 ### 🔑 Key Findings & Outcomes
-1. High-Level Churn Impact Visualization
+**1. High-Level Churn Impact Visualization**
 
    Provided a comprehensive view of churn severity, mapping its direct correlation to portfolio value decay.
 
-2. Sequential Churn Drivers
+**2. Sequential Churn Drivers**
 
    Proved that churn is driven by behavioral sequences rather than single actions, typically involving a primary negative behavior              reinforced by secondary triggers.
 
-3. Threshold Identification
+**3. Threshold Identification**
 
    Identified critical behavioral thresholds where churn probability increases sharply, allowing for data-driven monitoring.
 
-4. Predictive & Explanatory Modeling
+**4. Predictive & Explanatory Modeling**
 
    Developed a primary prediction model to estimate churn likelihood and a secondary model to interpret individual churn drivers for            personalized action.
 
-5. Behavior-Based Framework
+**5. Behavior-Based Framework**
 
    Established a monitoring framework using defined behavioral thresholds to support ongoing, proactive retention efforts.<br><br>
 
