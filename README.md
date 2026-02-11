@@ -37,7 +37,7 @@ This project focuses on identifying the source of value and assessing the sustai
 
 [→ 🔎 Analysis Detail](project2-card)
 
-**🔑 Key Outcomes:
+**🔑 Key Outcomes:**
 - Core Value Positioning: Identifying the Middle Income group and essential goods/services (Bills, Shopping) as the most stable revenue pillars.
 - Demonstrating Sustainability: Confirming low risk levels with a safe DTI (Debit/Credit Interchange Rate) (2.3 - 2.6) and the ability to maintain good cash liquidity for customers.
 - Decoding Payment Behavior: Discovering a preference for using debit cards for essential needs, demonstrating financial discipline even among those with high debt levels.
