@@ -16,23 +16,23 @@ This project shifts from descriptive statistics to proactive churn management:
 ### 🔑 Key Findings & Outcomes
 1. High-Level Churn Impact Visualization
 
-Provided a comprehensive view of churn severity, mapping its direct correlation to portfolio value decay.
+   Provided a comprehensive view of churn severity, mapping its direct correlation to portfolio value decay.
 
 2. Sequential Churn Drivers
 
-Proved that churn is driven by behavioral sequences rather than single actions, typically involving a primary negative behavior reinforced by secondary triggers.
+   Proved that churn is driven by behavioral sequences rather than single actions, typically involving a primary negative behavior              reinforced by secondary triggers.
 
 3. Threshold Identification
 
-Identified critical behavioral thresholds where churn probability increases sharply, allowing for data-driven monitoring.
+   Identified critical behavioral thresholds where churn probability increases sharply, allowing for data-driven monitoring.
 
 4. Predictive & Explanatory Modeling
 
-Developed a primary prediction model to estimate churn likelihood and a secondary model to interpret individual churn drivers for personalized action.
+   Developed a primary prediction model to estimate churn likelihood and a secondary model to interpret individual churn drivers for            personalized action.
 
 5. Behavior-Based Framework
 
-Established a monitoring framework using defined behavioral thresholds to support ongoing, proactive retention efforts.<br><br>
+   Established a monitoring framework using defined behavioral thresholds to support ongoing, proactive retention efforts.<br><br>
 
 ### 📁 Analysis Documents
 
