@@ -1,49 +1,76 @@
-## Project 1: Behavioral Analysis and Customer Churn Prediction
-**Project Background:** This project was initiated following a request from the internal Data Analysis team to develop a robust predictive model for customer churn. The primary objective was to move beyond retrospective reporting and establish an early-warning system for the strategic departments. By identifying high-risk behavioral patterns before a customer actually leaves, the organization can proactively deploy retention campaigns. This analysis serves as the foundation for data-driven interventions aimed at stabilizing the customer base and protecting long-term revenue.
+# <p align="center" style="color: #1a3a5f;">PROJECT 1: BEHAVIORAL ANALYSIS & CUSTOMER CHURN PREDICTION</p>
 
-### ❓ Business Questions
-This project shifts from descriptive statistics to proactive churn management:
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Category-Risk%20Analytics-1a3a5f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Model-Predictive%20ML-4682B4?style=flat-square" />
+</p>
 
-**1. Commercial Impact of Churn:**<br>
+---
 
-Beyond the rate itself, what is the actual severity of churn in terms of revenue loss and market share erosion?
+## 📌 1. OVERVIEW & CONTEXT
+<div style="background-color: #e9ecef; padding: 20px; border-radius: 10px; border-left: 8px solid #1a3a5f;">
+  <p style="color: #2c3e50; line-height: 1.6;">
+    This project focuses on analyzing customer behavior and building predictive models to understand and anticipate customer churn. The primary goal is to shift from reactive measures to <b>proactive retention strategies</b>.
+  </p>
+</div>
 
-**2. Behavioral Breakpoints:**<br>
+---
 
-What specific sequences of actions rather than isolated incidents trigger a transition from a "Loyal" to an "At-Risk" state?
+## ❓ 2. KEY BUSINESS QUESTIONS
+*How do we address these critical uncertainties?*
 
-**3. Early Warning Systems:** <br>
+| No. | Question | Focus Area |
+| :-- | :--- | :--- |
+| **01** | Is the current churn situation severe? | **Impact Assessment** |
+| **02** | Is there a specific behavioral pattern leading to churn? | **Root Cause Analysis** |
+| **03** | Can we predict churn early enough to intervene? | **Predictive Modeling** |
+| **04** | What personalized strategies can be applied to each segment? | **Actionable Insights** |
 
-How can we identify the "point of no return" to intervene effectively before the final transaction occurs?
+---
 
-**4. Strategic Retention:** <br>
+## 🎯 3. CORE OBJECTIVES
+1.  **Understand Churn Dynamics:** Evaluate the scale and impact of customer loss.
+2.  **Identify Behavioral Breakpoints:** Detect the specific moments/actions where customers start disengaging.
+3.  **Build Prediction Engines:** Develop models that flag "At-Risk" customers before they actually leave.
+4.  **Strategic Intervention:** Design a framework for personalized retention based on behavioral clusters.
 
-How can churn prevention be personalized at scale to ensure intervention costs do not exceed the customer's lifetime value?<br><br>
-   
+---
 
-### 🔑 Key Findings & Outcomes
-**1. High-Level Churn Impact Visualization**
+## 🏆 4. KEY OUTCOMES & FINDINGS
+<div style="background-color: #ffffff; border: 1px solid #dee2e6; border-radius: 12px; padding: 25px; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
 
-   Provided a comprehensive view of churn severity, mapping its direct correlation to portfolio value decay.
+### 📊 **Impact & Overview**
+* Provided a high-level view of customer churn and its overall impact on the portfolio's health.
+* Quantified the loss to prioritize resource allocation for retention.
 
-**2. Sequential Churn Drivers**
+### 🧠 **Behavioral Insights**
+* **Sequential Logic:** Identified churn as a result of **behavioral sequences** rather than isolated, random actions.
+* **Breakpoints:** Successfully detected critical behavioral breakpoints associated with a statistically significant increase in churn risk.
 
-   Proved that churn is driven by behavioral sequences rather than single actions, typically involving a primary negative behavior              reinforced by secondary triggers.
+### 🤖 **Model Performance**
+* Built predictive and explanatory models to support early and personalized churn intervention.
+* Ensured the models provide "Reason Codes" to help the business understand *why* a customer is flagged.
 
-**3. Threshold Identification**
+### 📈 **Actionable Framework**
+* **Segmentation:** Segmented customers based on their unique behavioral signatures.
+* **Monitoring:** Defined clear behavioral thresholds for automated monitoring and alert systems.
+</div>
 
-   Identified critical behavioral thresholds where churn probability increases sharply, allowing for data-driven monitoring.
+---
 
-**4. Predictive & Explanatory Modeling**
+## 🛠 5. METHODOLOGY & TOOLS
+* **Data Processing:** Python (Pandas, Numpy) for cleaning and feature engineering.
+* **Behavioral Tracking:** Sequence analysis and time-series feature extraction.
+* **Machine Learning:** Scikit-learn (Random Forest/XGBoost) for churn classification.
+* **Visualization:** Matplotlib & Seaborn for mapping behavioral breakpoints.
 
-   Developed a primary prediction model to estimate churn likelihood and a secondary model to interpret individual churn drivers for            personalized action.
+---
 
-**5. Behavior-Based Framework**
+## 💡 6. FINAL THOUGHTS
+This analysis demonstrates that **churn is not an event, it's a process**. By identifying the early signals in the customer journey, we can implement intervention strategies that are not only timely but also highly relevant to the customer's specific needs.
 
-   Established a monitoring framework using defined behavioral thresholds to support ongoing, proactive retention efforts.<br><br>
-
-### 📁 Analysis Documents
-
-1. [EDA, Behavioral Analysis, and Data Preparation](https://nbviewer.org/github/DungNguyen396/DungNguyen-portfolio/blob/main/project1-churn/eda.ipynb)
-2. [BigQuery Model Building & Behavioral Segmentation](./query.md)
-4. [Insight Interpretation and Strategic Action Plan](https://nbviewer.org/github/DungNguyen396/DungNguyen-portfolio/blob/main/project1-churn/explain.ipynb)
+---
+<p align="center">
+  <a href="../" style="background-color: #1a3a5f; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">⬅️ BACK TO PORTFOLIO</a>
+</p>
