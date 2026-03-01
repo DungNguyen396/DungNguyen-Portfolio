@@ -20,12 +20,17 @@
             In my view, it is the ability to think critically across domains. Deep expertise in one field is valuable, but fresh, multi-disciplinary perspectives are what often unlock the most innovative and actionable solutions. In an era of rapid innovation, this diversity of thought leads to better questions, more realistic modeling, and insights that actually move the needle for the business.
           </p>
         </td>
-        <td width="25%" align="center" style="vertical-align: top; border: none; padding-top: 20px;">
-          <div style="border: 4px solid #4682B4; border-radius: 50%; padding: 8px; width: 140px; height: 140px; display: inline-block; background-color: white;">
-            <img src="https://github.com/DungNguyen396/DungNguyen-Portfolio/blob/549808362ddcfcd1f8e7404aad52687f166a4a59/avatar.png" width="120" style="border-radius: 50%;" />
-          </div>
-          <p style="font-size: 13px; color: #708090; margin-top: 15px; font-weight: bold;"><i>Finance/ Operation / Data Analyst /</i></p>
-        </td>
+<td width="25%" align="center" style="vertical-align: top; border: none; padding-top: 20px;">
+  <div style="border: 1px solid #d1d8e0; border-radius: 12px; padding: 5px; width: 160px; display: inline-block; background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
+    <img src="https://raw.githubusercontent.com/DungNguyen396/DungNguyen-Portfolio/main/avatar.png" 
+         width="150" 
+         style="border-radius: 8px; display: block;" 
+         alt="Nguyen Dung Avatar" />
+  </div>
+  <p style="font-size: 13px; color: #708090; margin-top: 15px; font-weight: bold; line-height: 1.4;">
+    <i>/ Finance / Operation /<br>Data Analyst /</i>
+  </p>
+</td>
       </tr>
     </table>
   </div>
