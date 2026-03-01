@@ -1,5 +1,5 @@
 <div style="margin-bottom: 30px;">
-  <h1 style="color: #1a3a5f;">« NGUYEN THANH DUNG</h1>
+
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="22" style="vertical-align: middle;"> <b>TABLEAU</b> &nbsp;&nbsp; 
   <img src="https://cdn.simpleicons.org/looker" width="22" style="vertical-align: middle;"> <b>LOOKER STUDIO</b> &nbsp;&nbsp; 
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="22" style="vertical-align: middle;"> <b>SQL</b> &nbsp;&nbsp; 
@@ -31,7 +31,7 @@
       </tr>
     </table>
     
-    <div style="margin-top: 35px;">
+    <div style="margin-top: 30px;">
         <p style="color: #1a3a5f; font-weight: bold; font-size: 18px; margin-bottom: 12px;">What sets a Data Analyst apart in today’s landscape?</p>
         <div style="color: #2c3e50; line-height: 1.8; font-size: 16px; text-align: justify; font-style: italic; background-color: #f1f3f5; padding: 25px; border-left: 8px solid #1a3a5f; border-radius: 5px;">
           In my view, it is the ability to think critically across domains. Deep expertise in one field is valuable, but fresh, multi-disciplinary perspectives are what often unlock the most innovative and actionable solutions. In an era of rapid innovation, this diversity of thought leads to better questions, more realistic modeling, and insights that actually move the needle for the business.
