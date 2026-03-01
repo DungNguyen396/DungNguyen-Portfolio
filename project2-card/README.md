@@ -18,12 +18,12 @@
 
 <br>
 
-<h2 style="color: #2980b9; padding-left: 10px; border-bottom: none;">❓ Business Questions</h2>
+<h2 style="color: #2980b9; padding-left: 10px; border-bottom: none;">Exposing the Underlying Drivers ❓</h2>
 <p style="padding-left: 10px; color: #7f8c8d; font-style: italic; margin-bottom: 20px;">Evaluating core value and long-term viability of the card portfolio:</p>
 
 <div style="width: 100%; display: flex; flex-direction: column; gap: 20px;">
   <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 8px 15px rgba(235, 245, 251, 0.9); position: relative; overflow: hidden;">
-    <div style="font-size: 30px; margin-right: 20px;">💎</div>
+    <div style="font-size: 30px; margin-right: 20px;"></div>
     <div style="flex: 1; z-index: 1;">
       <h4 style="color: #2980b9; margin: 0; font-size: 16px; text-transform: uppercase;">Value Origin</h4>
       <p style="color: #444; margin: 5px 0 0 0; font-size: 15px;">Which income segments and merchant categories form the backbone of the portfolio's revenue?</p>
@@ -31,7 +31,7 @@
     <div style="color: #ebf5fb; font-size: 55px; font-weight: 900; position: absolute; right: 10px; bottom: -12px; z-index: 0;">01</div>
   </div>
   <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 8px 15px rgba(214, 234, 248, 0.7); position: relative; overflow: hidden;">
-    <div style="font-size: 30px; margin-right: 20px;">🛡️</div>
+    <div style="font-size: 30px; margin-right: 20px;"></div>
     <div style="flex: 1; z-index: 1;">
       <h4 style="color: #2980b9; margin: 0; font-size: 16px; text-transform: uppercase;">Financial Sustainability</h4>
       <p style="color: #444; margin: 5px 0 0 0; font-size: 15px;">Given current DTI levels, is the debt backed by sustainable repayment capacity?</p>
@@ -39,7 +39,7 @@
     <div style="color: #d6eaf8; font-size: 55px; font-weight: 900; position: absolute; right: 10px; bottom: -12px; z-index: 0;">02</div>
   </div>
   <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 8px 15px rgba(169, 204, 227, 0.5); position: relative; overflow: hidden;">
-    <div style="font-size: 30px; margin-right: 20px;">💳</div>
+    <div style="font-size: 30px; margin-right: 20px;"></div>
     <div style="flex: 1; z-index: 1;">
       <h4 style="color: #2980b9; margin: 0; font-size: 16px; text-transform: uppercase;">Liquidity Discipline</h4>
       <p style="color: #444; margin: 5px 0 0 0; font-size: 15px;">What does Debit preference among high-debt users reveal about cash flow health?</p>
@@ -47,7 +47,7 @@
     <div style="color: #a9cce3; font-size: 55px; font-weight: 900; position: absolute; right: 10px; bottom: -12px; z-index: 0;">03</div>
   </div>
   <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 10px 18px rgba(93, 173, 226, 0.3); position: relative; overflow: hidden;">
-    <div style="font-size: 30px; margin-right: 20px;">📈</div>
+    <div style="font-size: 30px; margin-right: 20px;"></div>
     <div style="flex: 1; z-index: 1;">
       <h4 style="color: #2980b9; margin: 0; font-size: 16px; text-transform: uppercase;">Strategic Growth</h4>
       <p style="color: #444; margin: 5px 0 0 0; font-size: 15px;">How can we stimulate growth without breaching established safety margins?</p>
