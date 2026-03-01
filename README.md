@@ -60,7 +60,7 @@
           <a href="project2-card/" style="color: #4682B4; text-decoration: none; font-weight: bold; font-size: 13px;">➔ View Details</a>
         </div>
       </td>
-      <td width="33.33%" bgcolor="#ffffff" style="border-radius: 12px; border: 1px solid #d1d8e0; vertical-align: top; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+      <td width="33.33%" bgcolor="#ffffff" style="border-radius: 12px; border: 1px solid #d1d8e0; vertical-align: top;  rgba(0,0,0,0.05);">
         <div style="background-color: #1a3a5f; height: 100px; border-top-left-radius: 12px; border-top-right-radius: 12px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center; font-size: 17px;">Auto Approval</div>
         <div style="padding: 20px;">
           <h4 style="margin: 0; color: #1a3a5f; font-size: 18px;">Digital Ad Flow</h4>
