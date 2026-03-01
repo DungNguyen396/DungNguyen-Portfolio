@@ -20,7 +20,7 @@
 
 <br>
 
-<h2 style="color: #1a3a5f; padding-left: 10px; border-bottom: none;">Exposing the Underlying Drivers ❓</h2>
+<h2 style="color: #1a3a5f; padding-left: 10px; border-bottom: none; background: linear-gradient(to right, rgba(26, 58, 95, 0.05) 0%, rgba(26, 58, 95, 0.2) 100%);">Exposing the Underlying Drivers</h2>
 <p style="padding-left: 10px; color: #7f8c8d; font-style: italic; margin-bottom: 20px;">Optimizing decision logic for maximum automated efficiency:</p>
 
 <div style="width: 100%; display: flex; flex-direction: column; gap: 20px;">
