@@ -21,4 +21,4 @@ Loss Driver Framework: Automated the extraction of the top 3 risk factors for ev
 Measurable Profit Lift: Generated a net profit increase (+$15,239) by recovering profitable campaigns previously misclassified by rigid manual rules.
 
 📂 Analysis Documents
-Model Training & Calibration
+1. [Automated Approval Workflow for Digital Advertising Campaigns](https://nbviewer.org/github/DungNguyen396/DungNguyen-portfolio/blob/main/project3-digital/Digital_ads_format.ipynb)
