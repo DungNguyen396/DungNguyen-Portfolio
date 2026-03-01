@@ -40,7 +40,7 @@
     </div>
     <div style="color: #e1e5e9; font-size: 55px; font-weight: 900; position: absolute; right: 10px; bottom: -12px; z-index: 0;">02</div>
   </div>
-  <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 8px 15px rgba(26, 58, 95, 0.14); position: relative; overflow: hidden;">
+  <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 8px 15px rgba(26, 58, 95, 0.16); position: relative; overflow: hidden;">
     <div style="font-size: 30px; margin-right: 20px;"></div>
     <div style="flex: 1; z-index: 1;">
       <h4 style="color: #1a3a5f; margin: 0; font-size: 16px; text-transform: uppercase;">Efficiency</h4>
@@ -48,7 +48,7 @@
     </div>
     <div style="color: #d1d9e0; font-size: 55px; font-weight: 900; position: absolute; right: 10px; bottom: -12px; z-index: 0;">03</div>
   </div>
-  <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 10px 18px rgba(26, 58, 95, 0.16); position: relative; overflow: hidden;">
+  <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 10px 18px rgba(26, 58, 95, 0.2); position: relative; overflow: hidden;">
     <div style="font-size: 30px; margin-right: 20px;"></div>
     <div style="flex: 1; z-index: 1;">
       <h4 style="color: #1a3a5f; margin: 0; font-size: 16px; text-transform: uppercase;">Transparency</h4>
