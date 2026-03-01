@@ -42,7 +42,7 @@ This project focuses on identifying the source of value and assessing the sustai
 - Identifying spending shifts: Note the portfolio's adaptation as cash flow shifts towards defensive sectors (Healthcare) to preserve overall sales.
 - Proposing safe growth: Focus on shifting spending behavior from Debit to Credit in high-income segments and low-risk industries.
 
---
+---
 
 ### 📉 Project 3: Automated Approval Workflow for Digital Advertising Campaigns
 This project focuses on building an automated decision engine to optimize the balance between risk and profitability using calibrated machine learning models.
