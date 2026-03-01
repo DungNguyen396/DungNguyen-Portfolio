@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color: #2980b9; border-bottom: none; margin-bottom: 10px; font-size: 30px;">PROJECT 2: CARD PORTFOLIO VALUE & SUSTAINABILITY ANALYSIS</h1>
+  <h1 style="color: #2980b9; border-bottom: none; margin-bottom: 10px; font-size: 30px;">CARD PORTFOLIO VALUE & SUSTAINABILITY ANALYSIS</h1>
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Category-Financial%20Audit-2980b9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tools-Tableau%20%26%20Looker%20Studio-3498db?style=for-the-badge" />
