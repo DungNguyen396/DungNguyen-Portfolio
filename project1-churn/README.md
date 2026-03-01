@@ -1,10 +1,8 @@
 <div align="center">
   <h1 style="color: #455a64; border-bottom: none; margin-bottom: 10px; font-size: 30px;">PROJECT 1: BEHAVIORAL ANALYSIS & CUSTOMER CHURN PREDICTION</h1>
-  <div style="margin-bottom: 20px;">
-    <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Category-Risk%20Analytics-455a64?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Tools-Python%20%26%20BigQuery-607d8b?style=for-the-badge" />
-  </div>
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Category-Risk%20Analytics-455a64?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tools-Python%20%26%20BigQuery-607d8b?style=for-the-badge" />
 </div>
 
 <br>
@@ -27,7 +25,7 @@
   <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 8px 15px rgba(69, 90, 100, 0.08); position: relative; overflow: hidden;">
     <div style="font-size: 30px; margin-right: 20px;">📊</div>
     <div style="flex: 1; z-index: 1;">
-      <h4 style="color: #455a64; margin: 0; font-size: 16px; text-transform: uppercase;">Commercial Impact</h4>
+      <h4 style="color: #455a64; margin: 0; font-size: 16px; text-transform: uppercase;">Commercial Impact of Churn</h4>
       <p style="color: #444; margin: 5px 0 0 0; font-size: 15px;">Beyond the rate itself, what is the actual severity of churn in terms of revenue loss and market share erosion?</p>
     </div>
     <div style="color: #eceff1; font-size: 55px; font-weight: 900; position: absolute; right: 10px; bottom: -12px; z-index: 0;">01</div>
@@ -43,10 +41,18 @@
   <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 8px 15px rgba(69, 90, 100, 0.12); position: relative; overflow: hidden;">
     <div style="font-size: 30px; margin-right: 20px;">🛰️</div>
     <div style="flex: 1; z-index: 1;">
-      <h4 style="color: #455a64; margin: 0; font-size: 16px; text-transform: uppercase;">Early Warning</h4>
-      <p style="color: #444; margin: 5px 0 0 0; font-size: 15px;">How can we identify the "point of no return" to intervene effectively before the final transaction?</p>
+      <h4 style="color: #455a64; margin: 0; font-size: 16px; text-transform: uppercase;">Early Warning Systems</h4>
+      <p style="color: #444; margin: 5px 0 0 0; font-size: 15px;">How can we identify the "point of no return" to intervene effectively before the final transaction occurs?</p>
     </div>
     <div style="color: #b0bec5; font-size: 55px; font-weight: 900; position: absolute; right: 10px; bottom: -12px; z-index: 0;">03</div>
+  </div>
+  <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 10px 18px rgba(69, 90, 100, 0.15); position: relative; overflow: hidden;">
+    <div style="font-size: 30px; margin-right: 20px;">🚀</div>
+    <div style="flex: 1; z-index: 1;">
+      <h4 style="color: #455a64; margin: 0; font-size: 16px; text-transform: uppercase;">Strategic Retention</h4>
+      <p style="color: #444; margin: 5px 0 0 0; font-size: 15px;">How can churn prevention be personalized at scale to ensure costs align with lifetime value?</p>
+    </div>
+    <div style="color: #90a4ae; font-size: 55px; font-weight: 900; position: absolute; right: 10px; bottom: -12px; z-index: 0;">04</div>
   </div>
 </div>
 
@@ -66,16 +72,20 @@
     <b style="color: #455a64; font-size: 16px;">3. Threshold Identification</b>
     <p style="margin-top: 5px; color: #2c3e50;">Identified critical behavioral thresholds where churn probability increases sharply, allowing for data-driven monitoring.</p>
   </div>
-  <div style="background-color: #ffffff; padding: 18px; border-radius: 10px; border-left: 10px solid #455a64; box-shadow: 0 8px 25px rgba(69, 90, 100, 0.3);">
+  <div style="background-color: #ffffff; padding: 18px; border-radius: 10px; border-left: 10px solid #546e7a; margin-bottom: 20px; box-shadow: 0 8px 20px rgba(84, 110, 122, 0.5);">
     <b style="color: #455a64; font-size: 16px;">4. Predictive & Explanatory Modeling</b>
     <p style="margin-top: 5px; color: #2c3e50;">Developed a primary prediction model for likelihood estimation and a secondary model to interpret individual drivers for action.</p>
+  </div>
+  <div style="background-color: #ffffff; padding: 18px; border-radius: 10px; border-left: 10px solid #455a64; box-shadow: 0 8px 25px rgba(69, 90, 100, 0.3);">
+    <b style="color: #455a64; font-size: 16px;">5. Behavior-Based Framework</b>
+    <p style="margin-top: 5px; color: #2c3e50;">Established a monitoring framework using defined behavioral thresholds to support ongoing, proactive retention efforts.</p>
   </div>
 </div>
 
 <br>
 
 <h2 style="color: #455a64; padding-left: 10px; border-bottom: none;">📁 Analysis Documents</h2>
-<p style="padding-left: 10px; color: #7f8c8d; font-style: italic; margin-bottom: 15px;">Technical implementation and core analysis:</p>
+<p style="padding-left: 10px; color: #7f8c8d; font-style: italic; margin-bottom: 15px;">Technical implementation and code:</p>
 
 <div style="display: flex; gap: 15px; justify-content: space-between;">
   <a href="https://nbviewer.org/github/DungNguyen396/DungNguyen-portfolio/blob/main/project1-churn/eda.ipynb" style="flex: 1; text-decoration: none;">
