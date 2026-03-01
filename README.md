@@ -1,19 +1,7 @@
-<table border="0" width="100%" cellpadding="0" cellspacing="0" style="width: 100%; max-width: 100%;">
-  <tr>
-    <td align="left" style="border: none; padding-bottom: 10px;">
-      <h1 style="color: #1a3a5f; border-bottom: none; font-size: 32px; margin: 0;">« NGUYEN THANH DUNG</h1>
-    </td>
-    <td align="right" style="border: none; vertical-align: middle;">
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-      <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-looker&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-4682B4?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-2c3e50?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" />
-    </td>
-  </tr>
-</table>
+# « NGUYEN THANH DUNG
+<img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="22" vertical-align="middle"> **TABLEAU** &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/google_looker_studio/google_looker_studio-icon.svg" width="22" vertical-align="middle"> **LOOKER STUDIO** &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="22" vertical-align="middle"> **SQL** &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="22" vertical-align="middle"> **PYTHON** &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="22" vertical-align="middle"> **BIGQUERY**
 
-<hr style="border: 1px solid #dee2e6;">
+---
 
 <br>
 
