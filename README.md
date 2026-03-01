@@ -83,7 +83,7 @@
       <a href="mailto:dungnguyen14396@gmail.com" style="text-decoration: none; color: #586069; font-size: 14px; margin-right: 30px; display: inline-block;">
         <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="15" style="vertical-align: middle; filter: grayscale(100%); margin-right: 5px;"> dungnt0396@gmail.com
       </a>
-      <a href="[www.linkedin.com/in/dung-nguyen-thanh-40aab7315](https://www.linkedin.com/in/dung-nguyen-thanh-40aab7315/)" style="text-decoration: none; color: #586069; font-size: 14px; margin-right: 30px; display: inline-block;">
+      <a href="https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BlYq%2BfnYzR2a9c3pcXKZjcQ%3D%3D" style="text-decoration: none; color: #586069; font-size: 14px; margin-right: 30px; display: inline-block;">
         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="15" style="vertical-align: middle; filter: grayscale(100%); margin-right: 5px;"> linkedin.com/in/dungnguyen396
       </a>
       <a href="YOUR_ZALO_LINK" style="text-decoration: none; color: #586069; font-size: 14px; display: inline-block;">
