@@ -90,7 +90,7 @@
 <p style="padding-left: 10px; color: #7f8c8d; font-style: italic; margin-bottom: 15px;">Technical implementation and core analysis:</p>
 
 <div style="display: flex; gap: 15px; justify-content: center;">
-  <a href="https://nbviewer.org/github/DungNguyen396/DungNguyen-portfolio/blob/main/project3-digital/digital_ads.ipynb" style="flex: 1; max-width: 500px; text-decoration: none;">
+  <a href="https://nbviewer.org/github/DungNguyen396/DungNguyen-Portfolio/blob/main/project3-digital/digital_ads.ipynb" style="flex: 1; max-width: 500px; text-decoration: none;">
     <div style="background-color: #1a3a5f; border-radius: 10px; padding: 20px 10px; text-align: center; height: 100%; box-shadow: 0 10px 20px rgba(26, 58, 95, 0.35);">
       <b style="color: #ffffff; font-size: 12px; text-transform: uppercase; display: block; letter-spacing: 1.5px;">AUTOMATED WORKFLOW ANALYSIS</b>
     </div>
