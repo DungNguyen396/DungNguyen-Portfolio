@@ -52,7 +52,7 @@
           <a href="project1-churn/" style="color: #4682B4; text-decoration: none; font-weight: bold; font-size: 13px;">➔ View Details</a>
         </div>
       </td>
-      <td width="33.33%" bgcolor="#ffffff" style="border-radius: 12px; border: 2px solid #4682B4; vertical-align: top; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+      <td width="33.33%" bgcolor="#ffffff" style="border-radius: 12px; border: 1px solid #d1d8e0; vertical-align: top; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
         <div style="background-color: #4682B4; height: 100px; border-top-left-radius: 12px; border-top-right-radius: 12px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center; font-size: 17px;">Card Portfolio</div>
         <div style="padding: 20px;">
           <h4 style="margin: 0; color: #1a3a5f; font-size: 17px;">Card Value</h4>
