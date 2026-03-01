@@ -89,21 +89,18 @@
 
 <div style="display: flex; gap: 15px; justify-content: space-between;">
   <a href="https://nbviewer.org/github/DungNguyen396/DungNguyen-portfolio/blob/main/project1-churn/eda.ipynb" style="flex: 1; text-decoration: none;">
-    <div style="background-color: #dbeafe; border: 2px solid #1a3a5f; border-radius: 10px; padding: 15px; text-align: center; height: 100%; box-shadow: 0 6px 12px rgba(26, 58, 95, 0.15);">
-      <div style="font-size: 24px; margin-bottom: 8px;">🔍</div>
-      <b style="color: #1a3a5f; font-size: 13px; text-transform: uppercase; display: block;">EDA & PREP</b>
+    <div style="background-color: #1a3a5f; border-radius: 10px; padding: 18px 10px; text-align: center; height: 100%; box-shadow: 0 6px 15px rgba(26, 58, 95, 0.3);">
+      <b style="color: #ffffff; font-size: 12px; text-transform: uppercase; display: block; letter-spacing: 1px;">EDA & PREP</b>
     </div>
   </a>
   <a href="./query.md" style="flex: 1; text-decoration: none;">
-    <div style="background-color: #d1e9ff; border: 2px solid #4682B4; border-radius: 10px; padding: 15px; text-align: center; height: 100%; box-shadow: 0 6px 12px rgba(70, 130, 180, 0.15);">
-      <div style="font-size: 24px; margin-bottom: 8px;">⚡</div>
-      <b style="color: #4682B4; font-size: 13px; text-transform: uppercase; display: block;">BIGQUERY ML</b>
+    <div style="background-color: #4682B4; border-radius: 10px; padding: 18px 10px; text-align: center; height: 100%; box-shadow: 0 6px 15px rgba(70, 130, 180, 0.3);">
+      <b style="color: #ffffff; font-size: 12px; text-transform: uppercase; display: block; letter-spacing: 1px;">BIGQUERY ML</b>
     </div>
   </a>
   <a href="https://nbviewer.org/github/DungNguyen396/DungNguyen-portfolio/blob/main/project1-churn/explain.ipynb" style="flex: 1; text-decoration: none;">
-    <div style="background-color: #e2e8f0; border: 2px solid #708090; border-radius: 10px; padding: 15px; text-align: center; height: 100%; box-shadow: 0 6px 12px rgba(112, 128, 144, 0.15);">
-      <div style="font-size: 24px; margin-bottom: 8px;">📊</div>
-      <b style="color: #708090; font-size: 13px; text-transform: uppercase; display: block;">STRATEGY</b>
+    <div style="background-color: #708090; border-radius: 10px; padding: 18px 10px; text-align: center; height: 100%; box-shadow: 0 6px 15px rgba(112, 128, 144, 0.3);">
+      <b style="color: #ffffff; font-size: 12px; text-transform: uppercase; display: block; letter-spacing: 1px;">STRATEGY</b>
     </div>
   </a>
 </div>
