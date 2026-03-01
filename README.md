@@ -72,28 +72,30 @@
   </table>
 </div>
 
-<div style="padding: 20px 10px; border-top: 1px solid #eee; margin-top: 40px;">
+<div style="padding: 20px 0; border-top: 1px solid #eee; margin-top: 40px;">
   <table border="0" width="100%" cellpadding="0" cellspacing="0">
     <tr>
-      <td style="vertical-align: middle;">
-        <h3 style="color: #1a3a5f; margin: 0; font-size: 18px; display: inline-block; margin-right: 25px;">✉️ Let's Connect</h3>
-        <span style="color: #95a5a6; font-size: 14px;">Feel free to reach out for collaboration!</span>
+      <td style="vertical-align: top; padding-bottom: 10px;">
+        <h3 style="color: #1a3a5f; margin: 0; font-size: 18px;">✉️ Let's Connect</h3>
+        <p style="color: #95a5a6; font-size: 13px; margin: 5px 0 0 0;">Feel free to reach out for collaboration!</p>
       </td>
-      <td align="right" style="vertical-align: middle;">
-        <a href="mailto:dungnguyen14396@gmail.com" style="text-decoration: none; color: #586069; font-size: 14px; margin-left: 20px;">
-          <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="16" style="vertical-align: middle; filter: grayscale(100%); margin-right: 5px;"> <b>Email</b>
-        </a>
-        <a href="https://linkedin.com/in/dungnguyen396" style="text-decoration: none; color: #586069; font-size: 14px; margin-left: 20px;">
-          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="16" style="vertical-align: middle; filter: grayscale(100%); margin-right: 5px;"> <b>LinkedIn</b>
-        </a>
-        <a href="LINK_QR_ZALO" style="text-decoration: none; color: #586069; font-size: 14px; margin-left: 20px;">
-          <img src="https://cdn.simpleicons.org/zalo/000000" width="16" style="vertical-align: middle; margin-right: 5px;"> <b>Zalo</b>
-        </a>
+      <td align="right" style="vertical-align: top;">
+        <div style="line-height: 2;">
+          <a href="mailto:dungnguyen14396@gmail.com" style="text-decoration: none; color: #586069; font-size: 14px; display: block;">
+            <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="14" style="vertical-align: middle; filter: grayscale(100%); margin-right: 5px;"> dungnguyen14396@gmail.com
+          </a>
+          <a href="https://linkedin.com/in/dungnguyen396" style="text-decoration: none; color: #586069; font-size: 14px; display: block;">
+            <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="14" style="vertical-align: middle; filter: grayscale(100%); margin-right: 5px;"> linkedin.com/in/dungnguyen396
+          </a>
+          <a href="LINK_QR_ZALO" style="text-decoration: none; color: #586069; font-size: 14px; display: block;">
+            <img src="https://cdn.simpleicons.org/zalo/000000" width="14" style="vertical-align: middle; margin-right: 5px;"> Scan Zalo QR Code
+          </a>
+        </div>
       </td>
     </tr>
   </table>
 </div>
 
-<div align="center" style="color: #bdc3c7; font-size: 12px; padding: 30px 0;">
+<div align="center" style="color: #bdc3c7; font-size: 12px; padding: 20px 0 40px 0;">
   <b>© 2026 Dung Nguyen Portfolio</b>
 </div>
