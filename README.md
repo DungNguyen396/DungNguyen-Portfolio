@@ -1,27 +1,7 @@
-<!-- Load Font Awesome miễn phí -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-a6YZp2+..."
-crossorigin="anonymous" referrerpolicy="no-referrer" />
+# « NGUYEN THANH DUNG
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="22" style="vertical-align: middle;"> **TABLEAU** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=gcp" height="22" style="vertical-align: middle;"> **LOOKER STUDIO** &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/postgresql/4682B4" width="22" style="vertical-align: middle;"> **SQL** &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/python/2c3e50" width="22" style="vertical-align: middle;"> **PYTHON** &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="22" style="vertical-align: middle;"> **BIGQUERY**
 
-<p>
-  <!-- Tableau icon -->
-  <i class="fa-brands fa-tableau fa-lg" style="color:#E97627; margin-right:8px;"></i><strong>Tableau</strong>
-  &nbsp;&nbsp;
-
-  <!-- Google logo (đại diện Looker Studio) -->
-  <i class="fa-brands fa-google fa-lg" style="color:#4285F4; margin-right:8px;"></i><strong>Looker Studio</strong>
-  &nbsp;&nbsp;
-
-  <!-- PostgreSQL / SQL -->
-  <i class="fa-solid fa-database fa-lg" style="color:#336791; margin-right:8px;"></i><strong>SQL</strong>
-  &nbsp;&nbsp;
-
-  <!-- Python -->
-  <i class="fa-brands fa-python fa-lg" style="color:#3776AB; margin-right:8px;"></i><strong>Python</strong>
-  &nbsp;&nbsp;
-
-  <!-- BigQuery: đại diện bằng Google Cloud icon -->
-  <i class="fa-brands fa-google fa-lg" style="color:#669DF6; margin-right:8px;"></i><strong>BigQuery</strong>
-</p>
+---
 
 <div style="background-color: #e9ecef; padding: 30px; border-radius: 15px; width: 100%;">
   <div style="background-color: #ffffff; padding: 40px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0,0,0,0.1); border: 1px solid #d1d8e0;">
