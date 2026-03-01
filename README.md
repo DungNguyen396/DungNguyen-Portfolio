@@ -44,24 +44,26 @@
   <h2 style="color: #1a3a5f; margin-top: 0; padding-left: 10px; border-bottom: none;">📂 Projects & Insights</h2>
   <table border="0" width="100%" style="border-collapse: separate; border-spacing: 15px 0;">
     <tr>
-      <td width="33.33%" bgcolor="#ffffff" style="border-radius: 12px; border: 1px solid #d1d8e0; vertical-align: top; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
-        <div style="background-color: #708090; height: 100px; border-top-left-radius: 12px; border-top-right-radius: 12px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center; font-size: 17px;">Churn Prediction</div>
+      <td width="33.33%" style="border-radius: 12px; border: 2px solid #708090; vertical-align: top; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+        <div style="background-color: #708090; height: 100px; border-top-left-radius: 10px; border-top-right-radius: 10px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center; font-size: 17px;">Churn Prediction</div>
         <div style="padding: 20px;">
           <h4 style="margin: 0; color: #1a3a5f; font-size: 17px;">Churn Probability</h4>
           <p style="font-size: 14px; color: #586069; min-height: 50px; line-height: 1.5;">Behavioral analysis & predictive models.</p>
           <a href="project1-churn/" style="color: #4682B4; text-decoration: none; font-weight: bold; font-size: 13px;">➔ View Details</a>
         </div>
       </td>
-      <td width="33.33%" bgcolor="#ffffff" style="border-radius: 12px; border: 1px solid #d1d8e0; vertical-align: top; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
-        <div style="background-color: #4682B4; height: 100px; border-top-left-radius: 12px; border-top-right-radius: 12px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center; font-size: 17px;">Card Portfolio</div>
+      
+      <td width="33.33%" style="border-radius: 12px; border: 2px solid #4682B4; vertical-align: top; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+        <div style="background-color: #4682B4; height: 100px; border-top-left-radius: 10px; border-top-right-radius: 10px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center; font-size: 17px;">Card Portfolio</div>
         <div style="padding: 20px;">
           <h4 style="margin: 0; color: #1a3a5f; font-size: 17px;">Card Value</h4>
           <p style="font-size: 14px; color: #586069; min-height: 50px; line-height: 1.5;">Sustainability analysis & DTI metrics.</p>
           <a href="project2-card/" style="color: #4682B4; text-decoration: none; font-weight: bold; font-size: 13px;">➔ View Details</a>
         </div>
       </td>
-      <td width="33.33%" bgcolor="#ffffff" style="border-radius: 12px; border: 1px solid #d1d8e0; vertical-align: top; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
-        <div style="background-color: #1a3a5f; height: 100px; border-top-left-radius: 12px; border-top-right-radius: 12px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center; font-size: 17px;">Auto Approval</div>
+      
+      <td width="33.33%" style="border-radius: 12px; border: 2px solid #1a3a5f; vertical-align: top; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+        <div style="background-color: #1a3a5f; height: 100px; border-top-left-radius: 10px; border-top-right-radius: 10px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center; font-size: 17px;">Auto Approval</div>
         <div style="padding: 20px;">
           <h4 style="margin: 0; color: #1a3a5f; font-size: 18px;">Digital Ad Flow</h4>
           <p style="font-size: 14px; color: #586069; min-height: 50px; line-height: 1.5;">Decision engine automating approvals.</p>
