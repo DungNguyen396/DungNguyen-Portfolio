@@ -22,43 +22,38 @@
 <p style="padding-left: 10px; color: #7f8c8d; font-style: italic; margin-bottom: 20px;">Shifting from descriptive statistics to proactive churn management:</p>
 
 <div style="width: 100%; display: flex; flex-direction: column; gap: 15px;">
-  
   <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 2px 8px rgba(0,0,0,0.05); position: relative; overflow: hidden;">
     <div style="font-size: 30px; margin-right: 20px;">📊</div>
     <div style="flex: 1; z-index: 1;">
       <h4 style="color: #1a3a5f; margin: 0; font-size: 16px; text-transform: uppercase;">Commercial Impact of Churn</h4>
       <p style="color: #444; margin: 5px 0 0 0; font-size: 15px;">Beyond the rate itself, what is the actual severity of churn in terms of revenue loss and market share erosion?</p>
     </div>
-    <div style="color: #ebedef; font-size: 55px; font-weight: 900; position: absolute; right: 10px; bottom: -12px; z-index: 0;">01</div>
+    <div style="color: #f4f6f7; font-size: 55px; font-weight: 900; position: absolute; right: 10px; bottom: -12px; z-index: 0;">01</div>
   </div>
-
   <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 2px 8px rgba(0,0,0,0.05); position: relative; overflow: hidden;">
     <div style="font-size: 30px; margin-right: 20px;">🧠</div>
     <div style="flex: 1; z-index: 1;">
       <h4 style="color: #1a3a5f; margin: 0; font-size: 16px; text-transform: uppercase;">Behavioral Breakpoints</h4>
       <p style="color: #444; margin: 5px 0 0 0; font-size: 15px;">What specific sequences of actions trigger a transition from a "Loyal" to an "At-Risk" state?</p>
     </div>
-    <div style="color: #d6dbdf; font-size: 55px; font-weight: 900; position: absolute; right: 10px; bottom: -12px; z-index: 0;">02</div>
+    <div style="color: #d5d8dc; font-size: 55px; font-weight: 900; position: absolute; right: 10px; bottom: -12px; z-index: 0;">02</div>
   </div>
-
   <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 2px 8px rgba(0,0,0,0.05); position: relative; overflow: hidden;">
     <div style="font-size: 30px; margin-right: 20px;">🛰️</div>
     <div style="flex: 1; z-index: 1;">
       <h4 style="color: #1a3a5f; margin: 0; font-size: 16px; text-transform: uppercase;">Early Warning Systems</h4>
       <p style="color: #444; margin: 5px 0 0 0; font-size: 15px;">How can we identify the "point of no return" to intervene effectively before the final transaction occurs?</p>
     </div>
-    <div style="color: #aeb6bf; font-size: 55px; font-weight: 900; position: absolute; right: 10px; bottom: -12px; z-index: 0;">03</div>
+    <div style="color: #abb2b9; font-size: 55px; font-weight: 900; position: absolute; right: 10px; bottom: -12px; z-index: 0;">03</div>
   </div>
-
   <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 2px 8px rgba(0,0,0,0.05); position: relative; overflow: hidden;">
     <div style="font-size: 30px; margin-right: 20px;">🚀</div>
     <div style="flex: 1; z-index: 1;">
       <h4 style="color: #1a3a5f; margin: 0; font-size: 16px; text-transform: uppercase;">Strategic Retention</h4>
-      <p style="color: #444; margin: 5px 0 0 0; font-size: 15px;">How can churn prevention be personalized at scale to ensure costs align with customer lifetime value?</p>
+      <p style="color: #444; margin: 5px 0 0 0; font-size: 15px;">How can churn prevention be personalized at scale to ensure costs align with lifetime value?</p>
     </div>
-    <div style="color: #85929e; font-size: 55px; font-weight: 900; position: absolute; right: 10px; bottom: -12px; z-index: 0;">04</div>
+    <div style="color: #566573; font-size: 55px; font-weight: 900; position: absolute; right: 10px; bottom: -12px; z-index: 0;">04</div>
   </div>
-
 </div>
 
 <br>
@@ -66,46 +61,69 @@
 <div style="background-color: #e9ecef; padding: 30px; border-radius: 15px; width: 100%;">
   <h2 style="color: #1a3a5f; margin-top: 0; border-bottom: none;">🔑 Key Findings & Outcomes</h2>
   
-  <div style="background-color: #ffffff; padding: 20px; border-radius: 10px; border-left: 8px solid #d4e6f1; margin-bottom: 15px;">
-    <b style="color: #1a3a5f; font-size: 16px;">High-Level Churn Impact Visualization</b>
+  <div style="background-color: #ffffff; padding: 20px; border-radius: 10px; border-left: 10px solid #d4e6f1; margin-bottom: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.03);">
+    <b style="color: #1a3a5f; font-size: 16px;">1. High-Level Churn Impact Visualization</b>
     <p style="margin-top: 5px; color: #2c3e50;">Provided a comprehensive view of churn severity, mapping its direct correlation to portfolio value decay.</p>
   </div>
 
-  <div style="background-color: #ffffff; padding: 20px; border-radius: 10px; border-left: 8px solid #a9cce3; margin-bottom: 15px;">
-    <b style="color: #1a3a5f; font-size: 16px;">Sequential Churn Drivers</b>
+  <div style="background-color: #ffffff; padding: 20px; border-radius: 10px; border-left: 10px solid #a9cce3; margin-bottom: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.03);">
+    <b style="color: #1a3a5f; font-size: 16px;">2. Sequential Churn Drivers</b>
     <p style="margin-top: 5px; color: #2c3e50;">Proved that churn is driven by behavioral sequences typically involving a primary negative behavior reinforced by secondary triggers.</p>
   </div>
 
-  <div style="background-color: #ffffff; padding: 20px; border-radius: 10px; border-left: 8px solid #7fb3d5; margin-bottom: 15px;">
-    <b style="color: #1a3a5f; font-size: 16px;">Threshold Identification</b>
+  <div style="background-color: #ffffff; padding: 20px; border-radius: 10px; border-left: 10px solid #7fb3d5; margin-bottom: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.03);">
+    <b style="color: #1a3a5f; font-size: 16px;">3. Threshold Identification</b>
     <p style="margin-top: 5px; color: #2c3e50;">Identified critical behavioral thresholds where churn probability increases sharply, allowing for data-driven monitoring.</p>
   </div>
 
-  <div style="background-color: #ffffff; padding: 20px; border-radius: 10px; border-left: 8px solid #5499c7; margin-bottom: 15px;">
-    <b style="color: #1a3a5f; font-size: 16px;">Predictive & Explanatory Modeling</b>
+  <div style="background-color: #ffffff; padding: 20px; border-radius: 10px; border-left: 10px solid #5499c7; margin-bottom: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.03);">
+    <b style="color: #1a3a5f; font-size: 16px;">4. Predictive & Explanatory Modeling</b>
     <p style="margin-top: 5px; color: #2c3e50;">Developed a primary prediction model for likelihood estimation and a secondary model to interpret individual drivers for action.</p>
   </div>
 
-  <div style="background-color: #ffffff; padding: 20px; border-radius: 10px; border-left: 8px solid #2980b9;">
-    <b style="color: #1a3a5f; font-size: 16px;">Behavior-Based Framework</b>
+  <div style="background-color: #ffffff; padding: 20px; border-radius: 10px; border-left: 10px solid #2980b9; box-shadow: 0 4px 10px rgba(0,0,0,0.03);">
+    <b style="color: #1a3a5f; font-size: 16px;">5. Behavior-Based Framework</b>
     <p style="margin-top: 5px; color: #2c3e50;">Established a monitoring framework using defined behavioral thresholds to support ongoing, proactive retention efforts.</p>
   </div>
 </div>
 
 <br>
 
-<div style="padding: 25px; border: 1px solid #dee2e6; border-radius: 12px; width: 100%;">
-  <h2 style="color: #1a3a5f; margin-top: 0; border-bottom: none;">📁 Analysis Documents</h2>
-  <ul style="line-height: 2.2;">
-    <li>🔍 <a href="https://nbviewer.org/github/DungNguyen396/DungNguyen-portfolio/blob/main/project1-churn/eda.ipynb" style="color: #4682B4; font-weight: bold; text-decoration: none;">EDA, Behavioral Analysis, and Data Preparation</a></li>
-    <li>⚡ <a href="./query.md" style="color: #4682B4; font-weight: bold; text-decoration: none;">BigQuery Model Building & Behavioral Segmentation</a></li>
-    <li>📊 <a href="https://nbviewer.org/github/DungNguyen396/DungNguyen-portfolio/blob/main/project1-churn/explain.ipynb" style="color: #4682B4; font-weight: bold; text-decoration: none;">Insight Interpretation and Strategic Action Plan</a></li>
-  </ul>
-</div>
+<h2 style="color: #1a3a5f; padding-left: 10px; border-bottom: none;">📁 Analysis Documents</h2>
+<p style="padding-left: 10px; color: #7f8c8d; font-style: italic; margin-bottom: 15px;">Deep dive into the technical implementation and code:</p>
+
+<table border="0" width="100%" style="border-collapse: separate; border-spacing: 15px;">
+  <tr>
+    <td width="33.33%" bgcolor="#ffffff" style="border-radius: 12px; border: 1px solid #dee2e6; vertical-align: top; box-shadow: 0 4px 12px rgba(0,0,0,0.05); transition: 0.3s;">
+      <a href="https://nbviewer.org/github/DungNguyen396/DungNguyen-portfolio/blob/main/project1-churn/eda.ipynb" style="text-decoration: none;">
+        <div style="padding: 25px; align-items: center; display: flex; flex-direction: column;">
+          <div style="font-size: 35px; margin-bottom: 10px;">🔍</div>
+          <b style="color: #1a3a5f; text-align: center; font-size: 14px;">EDA, BEHAVIORAL ANALYSIS & DATA PREPARATION</b>
+        </div>
+      </a>
+    </td>
+    <td width="33.33%" bgcolor="#ffffff" style="border-radius: 12px; border: 1px solid #dee2e6; vertical-align: top; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+      <a href="./query.md" style="text-decoration: none;">
+        <div style="padding: 25px; align-items: center; display: flex; flex-direction: column;">
+          <div style="font-size: 35px; margin-bottom: 10px;">⚡</div>
+          <b style="color: #4682B4; text-align: center; font-size: 14px;">BIGQUERY MODEL BUILDING & SEGMENTATION</b>
+        </div>
+      </a>
+    </td>
+    <td width="33.33%" bgcolor="#ffffff" style="border-radius: 12px; border: 1px solid #dee2e6; vertical-align: top; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+      <a href="https://nbviewer.org/github/DungNguyen396/DungNguyen-portfolio/blob/main/project1-churn/explain.ipynb" style="text-decoration: none;">
+        <div style="padding: 25px; align-items: center; display: flex; flex-direction: column;">
+          <div style="font-size: 35px; margin-bottom: 10px;">📊</div>
+          <b style="color: #708090; text-align: center; font-size: 14px;">INSIGHT INTERPRETATION & STRATEGIC ACTION</b>
+        </div>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <div align="center" style="padding-top: 20px; padding-bottom: 50px;">
   <hr>
-  <a href="https://dungnguyen396.github.io/DungNguyen-Portfolio/" style="background-color: #1a3a5f; color: white; padding: 15px 30px; text-decoration: none; border-radius: 10px; font-weight: bold;">⬅️ BACK TO MAIN PORTFOLIO</a>
+  <a href="https://dungnguyen396.github.io/DungNguyen-Portfolio/" style="background-color: #1a3a5f; color: white; padding: 15px 35px; text-decoration: none; border-radius: 12px; font-weight: bold; box-shadow: 0 4px 15px rgba(26,58,95,0.2);">← BACK TO MAIN PORTFOLIO</a>
 </div>
