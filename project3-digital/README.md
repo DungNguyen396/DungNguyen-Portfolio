@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color: #1a3a5f; border-bottom: none; margin-bottom: 10px; font-size: 30px;">PROJECT 3: AUTOMATED APPROVAL WORKFLOW FOR DIGITAL ADS</h1>
+  <h1 style="color: #1a3a5f; border-bottom: none; margin-bottom: 10px; font-size: 30px;">AUTOMATED APPROVAL WORKFLOW FOR DIGITAL ADS</h1>
   <div style="margin-bottom: 20px;">
     <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Category-ML%20Ops-1a3a5f?style=for-the-badge" />
