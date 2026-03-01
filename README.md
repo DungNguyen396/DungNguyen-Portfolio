@@ -1,5 +1,5 @@
 <div style="margin-bottom: 30px;">
-  <h1>« NGUYEN THANH DUNG</h1>
+  <h1 style="color: #1a3a5f;">« NGUYEN THANH DUNG</h1>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="22" style="vertical-align: middle;"> <b>TABLEAU</b> &nbsp;&nbsp; 
   <img src="https://cdn.simpleicons.org/looker" width="22" style="vertical-align: middle;"> <b>LOOKER STUDIO</b> &nbsp;&nbsp; 
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="22" style="vertical-align: middle;"> <b>SQL</b> &nbsp;&nbsp; 
@@ -7,13 +7,13 @@
   <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="22" style="vertical-align: middle;"> <b>BIGQUERY</b>
 </div>
 
-<hr />
+<hr style="border: 0.5px solid #eee; margin-bottom: 30px;" />
 
 <div style="background-color: #e9ecef; padding: 30px; border-radius: 15px; margin-bottom: 20px;">
   <div style="background-color: #ffffff; padding: 40px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0,0,0,0.1); border: 1px solid #d1d8e0;">
-    <table border="0" width="100%">
+    <table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
       <tr>
-        <td width="65%" style="vertical-align: top; border: none; padding-right: 25px;">
+        <td width="68%" style="vertical-align: top; border: none; padding-right: 30px;">
           <h2 style="color: #1a3a5f; margin-top: 0; border-bottom: none;">👤 Hello, I'm Nguyen Dung 🎯</h2>
           <p style="color: #2c3e50; line-height: 1.8; font-size: 16px; text-align: justify;">
             Hi, I’m <b>Nguyen Thanh Dung</b> — a Finance & Banking specialist transitioning into the field of Data Analytics. With <b>7 years of experience</b> in the banking industry, including over 2 years dedicated to financial data analysis, I possess a unique vantage point: <b>I don’t just see the numbers, I understand the business logic and strategic drivers behind them.</b>
@@ -22,17 +22,17 @@
             Coming from a non-technical background, I view the rise of AI not as a challenge, but as a powerful equalizer. By leveraging AI to navigate technical complexities, I am able to redirect my focus toward what truly drives value: <b>precise problem framing, rigorous assumption testing, and strategic interpretation.</b>
           </p>
         </td>
-        <td width="35%" align="center" style="vertical-align: top; border: none; padding-top: 65px;">
-          <div style="border: 1px solid #d1d8e0; border-radius: 12px; padding: 6px; width: 190px; background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
-            <img src="https://raw.githubusercontent.com/DungNguyen396/DungNguyen-Portfolio/main/avatar.png" width="180" style="border-radius: 8px; display: block;" />
+        <td width="32%" align="center" style="vertical-align: top; border: none; padding-top: 75px;">
+          <div style="border: 1px solid #d1d8e0; border-radius: 12px; padding: 6px; width: 200px; background-color: white; box-shadow: 0 4px 10px rgba(0,0,0,0.08); display: inline-block;">
+            <img src="https://raw.githubusercontent.com/DungNguyen396/DungNguyen-Portfolio/main/avatar.png" width="190" style="border-radius: 8px; display: block;" />
           </div>
-          <p style="font-size: 13px; color: #708090; margin-top: 15px; font-weight: bold;"><i>/ Finance / Operation /<br>Data Analyst /</i></p>
+          <p style="font-size: 13px; color: #708090; margin-top: 15px; font-weight: bold; line-height: 1.4;"><i>/ Finance / Operation /<br>Data Analyst /</i></p>
         </td>
       </tr>
     </table>
     
-    <div style="margin-top: 30px;">
-        <p style="color: #1a3a5f; font-weight: bold; font-size: 18px; margin-bottom: 10px;">What sets a Data Analyst apart in today’s landscape?</p>
+    <div style="margin-top: 35px;">
+        <p style="color: #1a3a5f; font-weight: bold; font-size: 18px; margin-bottom: 12px;">What sets a Data Analyst apart in today’s landscape?</p>
         <div style="color: #2c3e50; line-height: 1.8; font-size: 16px; text-align: justify; font-style: italic; background-color: #f1f3f5; padding: 25px; border-left: 8px solid #1a3a5f; border-radius: 5px;">
           In my view, it is the ability to think critically across domains. Deep expertise in one field is valuable, but fresh, multi-disciplinary perspectives are what often unlock the most innovative and actionable solutions. In an era of rapid innovation, this diversity of thought leads to better questions, more realistic modeling, and insights that actually move the needle for the business.
         </div>
@@ -45,7 +45,7 @@
   <table border="0" width="100%" style="border-collapse: separate; border-spacing: 15px 0;">
     <tr>
       <td width="33.33%" bgcolor="#ffffff" style="border-radius: 12px; border: 1px solid #d1d8e0; vertical-align: top; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
-        <div style="background-color: #708090; height: 120px; border-top-left-radius: 12px; border-top-right-radius: 12px; color: white; font-weight: bold; text-align: center; line-height: 120px; font-size: 18px;">Churn Prediction</div>
+        <div style="background-color: #708090; height: 120px; border-top-left-radius: 12px; border-top-right-radius: 12px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center; padding: 10px; font-size: 18px;">Churn Prediction</div>
         <div style="padding: 20px;">
           <h4 style="margin: 0; color: #1a3a5f; font-size: 18px;">Churn Portfolio</h4>
           <p style="font-size: 14px; color: #586069; min-height: 60px; line-height: 1.5;">Behavioral analysis & predictive models to anticipate customer churn.</p>
@@ -53,7 +53,7 @@
         </div>
       </td>
       <td width="33.33%" bgcolor="#ffffff" style="border-radius: 12px; border: 2px solid #4682B4; vertical-align: top; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
-        <div style="background-color: #4682B4; height: 120px; border-top-left-radius: 12px; border-top-right-radius: 12px; color: white; font-weight: bold; text-align: center; line-height: 120px; font-size: 18px;">Card Portfolio</div>
+        <div style="background-color: #4682B4; height: 120px; border-top-left-radius: 12px; border-top-right-radius: 12px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center; padding: 10px; font-size: 18px;">Card Portfolio</div>
         <div style="padding: 20px;">
           <h4 style="margin: 0; color: #1a3a5f; font-size: 18px;">Card Value</h4>
           <p style="font-size: 14px; color: #586069; min-height: 60px; line-height: 1.5;">Sustainability analysis based on spending behavior & DTI metrics.</p>
@@ -61,7 +61,7 @@
         </div>
       </td>
       <td width="33.33%" bgcolor="#ffffff" style="border-radius: 12px; border: 1px solid #d1d8e0; vertical-align: top; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
-        <div style="background-color: #1a3a5f; height: 120px; border-top-left-radius: 12px; border-top-right-radius: 12px; color: white; font-weight: bold; text-align: center; line-height: 120px; font-size: 18px;">Auto Approval</div>
+        <div style="background-color: #1a3a5f; height: 120px; border-top-left-radius: 12px; border-top-right-radius: 12px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center; padding: 10px; font-size: 18px;">Auto Approval</div>
         <div style="padding: 20px;">
           <h4 style="margin: 0; color: #1a3a5f; font-size: 18px;">Digital Ad Flow</h4>
           <p style="font-size: 14px; color: #586069; min-height: 60px; line-height: 1.5;">Decision engine automating 92% of campaign approvals with ML.</p>
@@ -72,25 +72,29 @@
   </table>
 </div>
 
-<div style="padding: 40px; background-color: #ffffff; border-radius: 15px; border: 1px solid #dee2e6;">
-  <h2 style="color: #1a3a5f; margin-top: 0; border-bottom: none;">✉️ Get In Touch</h2>
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td style="padding-bottom: 15px; padding-right: 12px;"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="18"></td>
-      <td style="padding-bottom: 15px;"><a href="mailto:dungnguyen14396@gmail.com" style="text-decoration: none; color: #2c3e50; font-family: sans-serif;">dungnguyen14396@gmail.com</a></td>
-    </tr>
-    <tr>
-      <td style="padding-bottom: 15px; padding-right: 12px;"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="18"></td>
-      <td style="padding-bottom: 15px;"><a href="https://linkedin.com/in/dungnguyen396" style="text-decoration: none; color: #2c3e50; font-family: sans-serif;">linkedin.com/in/dungnguyen396</a></td>
-    </tr>
-    <tr>
-      <td style="padding-right: 12px;"><img src="https://cdn.simpleicons.org/zalo/000000" width="18"></td>
-      <td><a href="YOUR_ZALO_QR_LINK" style="text-decoration: none; color: #2c3e50; font-family: sans-serif;">Scan Zalo QR Code</a></td>
-    </tr>
-  </table>
+<div style="padding: 50px 20px; background-color: #ffffff; border-radius: 15px; border: 1px solid #e1e4e8; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.03);">
+  <h2 style="color: #1a3a5f; margin-top: 0; border: none; font-size: 24px;">✉️ Get In Touch</h2>
+  <p style="color: #7f8c8d; margin-bottom: 35px; font-size: 15px;">Connect with me for insights or opportunities!</p>
+  
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    <div style="background: #f8f9fa; padding: 12px 25px; border-radius: 30px; border: 1px solid #eee; width: fit-content; display: flex; align-items: center;">
+      <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="18" style="margin-right: 12px;">
+      <a href="mailto:dungnguyen14396@gmail.com" style="text-decoration: none; color: #2c3e50; font-weight: 500; font-family: sans-serif; font-size: 15px;">dungnguyen14396@gmail.com</a>
+    </div>
+
+    <div style="background: #f8f9fa; padding: 12px 25px; border-radius: 30px; border: 1px solid #eee; width: fit-content; display: flex; align-items: center;">
+      <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="18" style="margin-right: 12px;">
+      <a href="https://linkedin.com/in/dungnguyen396" style="text-decoration: none; color: #2c3e50; font-weight: 500; font-family: sans-serif; font-size: 15px;">linkedin.com/in/dungnguyen396</a>
+    </div>
+
+    <div style="background: #f8f9fa; padding: 12px 25px; border-radius: 30px; border: 1px solid #eee; width: fit-content; display: flex; align-items: center;">
+      <img src="https://cdn.simpleicons.org/zalo/000000" width="18" style="margin-right: 12px;">
+      <a href="LINK_QR_ZALO" style="text-decoration: none; color: #2c3e50; font-weight: 500; font-family: sans-serif; font-size: 15px;">Scan Zalo QR Code</a>
+    </div>
+  </div>
 </div>
 
-<div align="center" style="color: #bdc3c7; font-size: 14px; padding: 50px 0;">
+<div align="center" style="color: #bdc3c7; font-size: 13px; padding: 40px 0;">
   <i>"Numbers speak, but insights move the needle."</i><br>
   <b>© 2026 Dung Nguyen Portfolio</b>
 </div>
