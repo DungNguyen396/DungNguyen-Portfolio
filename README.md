@@ -22,9 +22,9 @@
         </td>
         <td width="25%" align="center" style="vertical-align: top; border: none; padding-top: 20px;">
           <div style="border: 4px solid #4682B4; border-radius: 50%; padding: 8px; width: 140px; height: 140px; display: inline-block; background-color: white;">
-            <img src="https://img.icons8.com/illustrations/external-tulpahn-outline-color-tulpahn/100/external-analyst-big-data-tulpahn-outline-color-tulpahn.png" width="120" style="border-radius: 50%;" />
+            <img src="https://github.com/DungNguyen396/DungNguyen-Portfolio/blob/549808362ddcfcd1f8e7404aad52687f166a4a59/avatar.png" width="120" style="border-radius: 50%;" />
           </div>
-          <p style="font-size: 13px; color: #708090; margin-top: 15px; font-weight: bold;"><i>/ Finance Expert turned Data Analyst /</i></p>
+          <p style="font-size: 13px; color: #708090; margin-top: 15px; font-weight: bold;"><i>Finance/ Operation / Data Analyst /</i></p>
         </td>
       </tr>
     </table>
