@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color: #455a64; border-bottom: none; margin-bottom: 10px; font-size: 30px;">PROJECT 1: BEHAVIORAL ANALYSIS & CUSTOMER CHURN PREDICTION</h1>
+  <h1 style="color: #455a64; border-bottom: none; margin-bottom: 10px; font-size: 30px;">CHURN PROBABILITY MODELING FOR CUSTOMER SEGMENTATION</h1>
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Category-Risk%20Analytics-455a64?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tools-Python%20%26%20BigQuery-607d8b?style=for-the-badge" />
