@@ -1,5 +1,5 @@
 # « NGUYEN THANH DUNG
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tableau.svg" width="22" vertical-align="middle"> **TABLEAU** &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googledatastudio.svg" width="22" vertical-align="middle"> **LOOKER STUDIO** &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" width="22" vertical-align="middle"> **SQL** &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="22" vertical-align="middle"> **PYTHON** &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlebigquery.svg" width="22" vertical-align="middle"> **BIGQUERY**
+<img src="https://skillicons.dev/icons?i=tableau" width="22" style="vertical-align: middle;"> **TABLEAU** &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/google_looker_studio/google_looker_studio-icon.svg" width="22" style="vertical-align: middle;"> **LOOKER STUDIO** &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/postgresql/4682B4" width="22" style="vertical-align: middle;"> **SQL** &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/python/2c3e50" width="22" style="vertical-align: middle;"> **PYTHON** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=gcp" width="22" style="vertical-align: middle;"> **BIGQUERY**
 
 ---
 
