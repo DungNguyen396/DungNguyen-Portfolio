@@ -86,7 +86,7 @@
       <a href="http://www.linkedin.com/in/dung-nguyen-thanh-40aab7315" style="text-decoration: none; color: #586069; font-size: 14px; margin-right: 30px; display: inline-block;">
         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="15" style="vertical-align: middle; filter: grayscale(100%); margin-right: 5px;"> linkedin.com/in/dungnguyen396
       </a>
-      <a href="https://github.com/DungNguyen396/DungNguyen-Portfolio/blob/45da5b955bdc7e6f888115184651078e82728206/qr.jpg" style="text-decoration: none; color: #586069; font-size: 14px; display: inline-block;">
+      <a href="zalo.html" style="text-decoration: none; color: #586069; font-size: 14px; display: inline-block;">
         <img src="https://cdn.simpleicons.org/zalo/000000" width="15" style="vertical-align: middle; margin-right: 5px;"> <b>Zalo</b>
       </a>
     </div>
