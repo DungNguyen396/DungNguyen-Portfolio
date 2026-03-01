@@ -8,7 +8,7 @@
 <br>
 
 <div style="background-color: #f1f3f5; padding: 30px; border-radius: 15px; width: 100%;">
-  <div style="background-color: #ffffff; padding: 30px; border-radius: 12px; border-left: 10px solid #2980b9; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+  <div style="background-color: #ffffff; padding: 30px; border: 1px solid #2980b9; border-radius: 12px; border-left: 10px solid #2980b9; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
     <h2 style="color: #2980b9; margin-top: 0; border-bottom: none;">📌 Project Background</h2>
     <p style="color: #2c3e50; line-height: 1.8; font-size: 16px; text-align: justify; margin-bottom: 0;">
       This analysis was requested by the Card Strategy team to evaluate the performance and sustainability of a newly launched dual-card product line. The goal was to audit the existing customer base to verify if the product is attracting the intended target segments and meeting strategic expectations. By examining the relationship between spending behavior and financial health, the project provides a factual basis for either scaling the current model or implementing product refinements. Ultimately, these insights ensure that the card portfolio remains a low-risk, high-value asset that aligns with the bank's long-term growth objectives.
