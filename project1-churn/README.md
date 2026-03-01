@@ -18,7 +18,7 @@
 
 <br>
 
-<h2 style="color: #455a64; padding-left: 10px; border-bottom: none; background: linear-gradient(to right, rgba(112, 128, 144, 0.05) 0%, rgba(112, 128, 144, 0.25) 100%);">Exposing the Underlying Drivers ❓</h2>
+<h2 style="color: #455a64; padding-left: 10px; border-bottom: none; background: linear-gradient(to right, rgba(112, 128, 144, 0.05) 0%, rgba(112, 128, 144, 0.25) 100%);">Exposing the Underlying Drivers</h2>
 <p style="padding-left: 10px; color: #7f8c8d; font-style: italic; margin-bottom: 20px;">Shifting from descriptive statistics to proactive churn management:</p>
 
 <div style="width: 100%; display: flex; flex-direction: column; gap: 20px;">
