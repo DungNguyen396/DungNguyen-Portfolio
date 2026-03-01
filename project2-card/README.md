@@ -89,18 +89,18 @@
 
 <div style="display: flex; gap: 15px; justify-content: space-between;">
   <a href="./query.md" style="flex: 1; text-decoration: none;">
-    <div style="background-color: #2980b9; border-radius: 10px; padding: 18px 10px; text-align: center; height: 100%; box-shadow: 0 6px 15px rgba(41, 128, 185, 0.3);">
-      <b style="color: #ffffff; font-size: 12px; text-transform: uppercase; display: block; letter-spacing: 1px;">DATA COLLECTION</b>
+    <div style="background-color: #1a3a5f; border-radius: 10px; padding: 18px 10px; text-align: center; height: 100%; box-shadow: 0 6px 15px rgba(26, 58, 95, 0.3);">
+      <b style="color: #ffffff; font-size: 11px; text-transform: uppercase; display: block; letter-spacing: 1px;">DATA COLLECTION</b>
     </div>
   </a>
   <a href="https://lookerstudio.google.com/reporting/ffd1b33f-f665-4a87-bec8-3ee9fb85a29b" style="flex: 1; text-decoration: none;">
-    <div style="background-color: #3498db; border-radius: 10px; padding: 18px 10px; text-align: center; height: 100%; box-shadow: 0 6px 15px rgba(52, 152, 219, 0.3);">
-      <b style="color: #ffffff; font-size: 12px; text-transform: uppercase; display: block; letter-spacing: 1px;">VALUE ANALYSIS</b>
+    <div style="background-color: #4682B4; border-radius: 10px; padding: 18px 10px; text-align: center; height: 100%; box-shadow: 0 6px 15px rgba(70, 130, 180, 0.3);">
+      <b style="color: #ffffff; font-size: 11px; text-transform: uppercase; display: block; letter-spacing: 1px;">VALUE ANALYSIS</b>
     </div>
   </a>
   <a href="https://public.tableau.com/views/CardPortfolioSustaninabilityMonitoring/Dashboard1" style="flex: 1; text-decoration: none;">
-    <div style="background-color: #5dade2; border-radius: 10px; padding: 18px 10px; text-align: center; height: 100%; box-shadow: 0 6px 15px rgba(93, 173, 226, 0.3);">
-      <b style="color: #ffffff; font-size: 12px; text-transform: uppercase; display: block; letter-spacing: 1px;">MONITORING</b>
+    <div style="background-color: #708090; border-radius: 10px; padding: 18px 10px; text-align: center; height: 100%; box-shadow: 0 6px 15px rgba(112, 128, 144, 0.3);">
+      <b style="color: #ffffff; font-size: 11px; text-transform: uppercase; display: block; letter-spacing: 1px;">MONITORING</b>
     </div>
   </a>
 </div>
