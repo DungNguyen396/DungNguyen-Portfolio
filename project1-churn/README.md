@@ -7,7 +7,7 @@
 
 <br>
 
-<div style="background-color: #f5f7f8; padding: 30px; border-radius: 15px; width: 100%;">
+<div style="background-color: #f1f3f5; padding: 30px; border-radius: 15px; width: 100%;">
   <div style="background-color: #ffffff; padding: 30px; border-radius: 12px; border-left: 10px solid #455a64; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
     <h2 style="color: #455a64; margin-top: 0; border-bottom: none;">📌 Project Background</h2>
     <p style="color: #2c3e50; line-height: 1.8; font-size: 16px; text-align: justify; margin-bottom: 0;">
