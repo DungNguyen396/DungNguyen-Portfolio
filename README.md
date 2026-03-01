@@ -4,9 +4,11 @@
       <h1 style="color: #1a3a5f; border-bottom: none; font-size: 32px; margin: 0;">« NGUYEN THANH DUNG</h1>
     </td>
     <td align="right" style="border: none; vertical-align: middle;">
-      <img src="https://img.shields.io/badge/PowerBI-708090?style=for-the-badge&logo=microsoftpowerbi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+      <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-looker&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-4682B4?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-2c3e50?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" />
     </td>
   </tr>
 </table>
