@@ -47,7 +47,7 @@
       <td width="33.33%" bgcolor="#ffffff" style="border-radius: 12px; border: 1px solid #d1d8e0; vertical-align: top; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
         <div style="background-color: #708090; height: 100px; border-top-left-radius: 12px; border-top-right-radius: 12px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center; font-size: 17px;">Churn Prediction</div>
         <div style="padding: 20px;">
-          <h4 style="margin: 0; color: #1a3a5f; font-size: 17px;">Churn Portfolio</h4>
+          <h4 style="margin: 0; color: #1a3a5f; font-size: 17px;">Behavioral Churn Modeling</h4>
           <p style="font-size: 14px; color: #586069; min-height: 50px; line-height: 1.5;">Behavioral analysis & predictive models.</p>
           <a href="project1-churn/" style="color: #4682B4; text-decoration: none; font-weight: bold; font-size: 13px;">➔ View Details</a>
         </div>
