@@ -23,8 +23,8 @@
           </p>
         </td>
         <td width="32%" align="center" style="vertical-align: top; border: none; padding-top: 75px;">
-          <div style="border: 1px solid #d1d8e0; border-radius: 12px; padding: 6px; width: 200px; background-color: white; box-shadow: 0 4px 10px rgba(0,0,0,0.08); display: inline-block;">
-            <img src="https://raw.githubusercontent.com/DungNguyen396/DungNguyen-Portfolio/main/avatar.png" width="190" style="border-radius: 8px; display: block;" />
+          <div style="border: 1px solid #d1d8e0; border-radius: 12px; padding: 6px; width: 195px; background-color: white; box-shadow: 0 4px 10px rgba(0,0,0,0.08); display: inline-block;">
+            <img src="https://raw.githubusercontent.com/DungNguyen396/DungNguyen-Portfolio/main/avatar.png" width="185" style="border-radius: 8px; display: block;" />
           </div>
           <p style="font-size: 13px; color: #708090; margin-top: 15px; font-weight: bold; line-height: 1.4;"><i>/ Finance / Operation /<br>Data Analyst /</i></p>
         </td>
@@ -40,61 +40,60 @@
   </div>
 </div>
 
-<div style="background-color: #e9ecef; padding: 25px; border-radius: 15px; margin-bottom: 20px;">
+<div style="background-color: #e9ecef; padding: 25px; border-radius: 15px; margin-bottom: 25px;">
   <h2 style="color: #1a3a5f; margin-top: 0; padding-left: 10px; border-bottom: none;">📂 Projects & Insights</h2>
   <table border="0" width="100%" style="border-collapse: separate; border-spacing: 15px 0;">
     <tr>
       <td width="33.33%" bgcolor="#ffffff" style="border-radius: 12px; border: 1px solid #d1d8e0; vertical-align: top; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
-        <div style="background-color: #708090; height: 120px; border-top-left-radius: 12px; border-top-right-radius: 12px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center; padding: 10px; font-size: 18px;">Churn Prediction</div>
+        <div style="background-color: #708090; height: 100px; border-top-left-radius: 12px; border-top-right-radius: 12px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center; font-size: 17px;">Churn Prediction</div>
         <div style="padding: 20px;">
-          <h4 style="margin: 0; color: #1a3a5f; font-size: 18px;">Churn Portfolio</h4>
-          <p style="font-size: 14px; color: #586069; min-height: 60px; line-height: 1.5;">Behavioral analysis & predictive models to anticipate customer churn.</p>
-          <a href="project1-churn/" style="color: #4682B4; text-decoration: none; font-weight: bold; font-size: 14px;">➔ View Details</a>
+          <h4 style="margin: 0; color: #1a3a5f; font-size: 17px;">Churn Portfolio</h4>
+          <p style="font-size: 14px; color: #586069; min-height: 50px; line-height: 1.5;">Behavioral analysis & predictive models.</p>
+          <a href="project1-churn/" style="color: #4682B4; text-decoration: none; font-weight: bold; font-size: 13px;">➔ View Details</a>
         </div>
       </td>
       <td width="33.33%" bgcolor="#ffffff" style="border-radius: 12px; border: 2px solid #4682B4; vertical-align: top; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
-        <div style="background-color: #4682B4; height: 120px; border-top-left-radius: 12px; border-top-right-radius: 12px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center; padding: 10px; font-size: 18px;">Card Portfolio</div>
+        <div style="background-color: #4682B4; height: 100px; border-top-left-radius: 12px; border-top-right-radius: 12px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center; font-size: 17px;">Card Portfolio</div>
         <div style="padding: 20px;">
-          <h4 style="margin: 0; color: #1a3a5f; font-size: 18px;">Card Value</h4>
-          <p style="font-size: 14px; color: #586069; min-height: 60px; line-height: 1.5;">Sustainability analysis based on spending behavior & DTI metrics.</p>
-          <a href="project2-card/" style="color: #4682B4; text-decoration: none; font-weight: bold; font-size: 14px;">➔ View Details</a>
+          <h4 style="margin: 0; color: #1a3a5f; font-size: 17px;">Card Value</h4>
+          <p style="font-size: 14px; color: #586069; min-height: 50px; line-height: 1.5;">Sustainability analysis & DTI metrics.</p>
+          <a href="project2-card/" style="color: #4682B4; text-decoration: none; font-weight: bold; font-size: 13px;">➔ View Details</a>
         </div>
       </td>
       <td width="33.33%" bgcolor="#ffffff" style="border-radius: 12px; border: 1px solid #d1d8e0; vertical-align: top; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
-        <div style="background-color: #1a3a5f; height: 120px; border-top-left-radius: 12px; border-top-right-radius: 12px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center; padding: 10px; font-size: 18px;">Auto Approval</div>
+        <div style="background-color: #1a3a5f; height: 100px; border-top-left-radius: 12px; border-top-right-radius: 12px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center; font-size: 17px;">Auto Approval</div>
         <div style="padding: 20px;">
-          <h4 style="margin: 0; color: #1a3a5f; font-size: 18px;">Digital Ad Flow</h4>
-          <p style="font-size: 14px; color: #586069; min-height: 60px; line-height: 1.5;">Decision engine automating 92% of campaign approvals with ML.</p>
-          <a href="project3-digital/" style="color: #4682B4; text-decoration: none; font-weight: bold; font-size: 14px;">➔ View Details</a>
+          <h4 style="margin: 0; color: #1a3a5f; font-size: 17px;">Digital Ad Flow</h4>
+          <p style="font-size: 14px; color: #586069; min-height: 50px; line-height: 1.5;">Decision engine automating approvals.</p>
+          <a href="project3-digital/" style="color: #4682B4; text-decoration: none; font-weight: bold; font-size: 13px;">➔ View Details</a>
         </div>
       </td>
     </tr>
   </table>
 </div>
 
-<div style="padding: 50px 20px; background-color: #ffffff; border-radius: 15px; border: 1px solid #e1e4e8; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.03);">
-  <h2 style="color: #1a3a5f; margin-top: 0; border: none; font-size: 24px;">✉️ Get In Touch</h2>
-  <p style="color: #7f8c8d; margin-bottom: 35px; font-size: 15px;">Connect with me for insights or opportunities!</p>
-  
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
-    <div style="background: #f8f9fa; padding: 12px 25px; border-radius: 30px; border: 1px solid #eee; width: fit-content; display: flex; align-items: center;">
-      <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="18" style="margin-right: 12px;">
-      <a href="mailto:dungnguyen14396@gmail.com" style="text-decoration: none; color: #2c3e50; font-weight: 500; font-family: sans-serif; font-size: 15px;">dungnguyen14396@gmail.com</a>
-    </div>
-
-    <div style="background: #f8f9fa; padding: 12px 25px; border-radius: 30px; border: 1px solid #eee; width: fit-content; display: flex; align-items: center;">
-      <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="18" style="margin-right: 12px;">
-      <a href="https://linkedin.com/in/dungnguyen396" style="text-decoration: none; color: #2c3e50; font-weight: 500; font-family: sans-serif; font-size: 15px;">linkedin.com/in/dungnguyen396</a>
-    </div>
-
-    <div style="background: #f8f9fa; padding: 12px 25px; border-radius: 30px; border: 1px solid #eee; width: fit-content; display: flex; align-items: center;">
-      <img src="https://cdn.simpleicons.org/zalo/000000" width="18" style="margin-right: 12px;">
-      <a href="LINK_QR_ZALO" style="text-decoration: none; color: #2c3e50; font-weight: 500; font-family: sans-serif; font-size: 15px;">Scan Zalo QR Code</a>
-    </div>
-  </div>
+<div style="padding: 20px 10px; border-top: 1px solid #eee; margin-top: 40px;">
+  <table border="0" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td style="vertical-align: middle;">
+        <h3 style="color: #1a3a5f; margin: 0; font-size: 18px; display: inline-block; margin-right: 25px;">✉️ Let's Connect</h3>
+        <span style="color: #95a5a6; font-size: 14px;">Feel free to reach out for collaboration!</span>
+      </td>
+      <td align="right" style="vertical-align: middle;">
+        <a href="mailto:dungnguyen14396@gmail.com" style="text-decoration: none; color: #586069; font-size: 14px; margin-left: 20px;">
+          <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="16" style="vertical-align: middle; filter: grayscale(100%); margin-right: 5px;"> <b>Email</b>
+        </a>
+        <a href="https://linkedin.com/in/dungnguyen396" style="text-decoration: none; color: #586069; font-size: 14px; margin-left: 20px;">
+          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="16" style="vertical-align: middle; filter: grayscale(100%); margin-right: 5px;"> <b>LinkedIn</b>
+        </a>
+        <a href="LINK_QR_ZALO" style="text-decoration: none; color: #586069; font-size: 14px; margin-left: 20px;">
+          <img src="https://cdn.simpleicons.org/zalo/000000" width="16" style="vertical-align: middle; margin-right: 5px;"> <b>Zalo</b>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center" style="color: #bdc3c7; font-size: 13px; padding: 40px 0;">
-  <i>"Numbers speak, but insights move the needle."</i><br>
+<div align="center" style="color: #bdc3c7; font-size: 12px; padding: 30px 0;">
   <b>© 2026 Dung Nguyen Portfolio</b>
 </div>
