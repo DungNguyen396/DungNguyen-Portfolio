@@ -73,20 +73,20 @@
 </div>
 
 <div style="padding: 20px 10px; border-top: 1px solid #eee; margin-top: 40px;">
-  <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
-    <div style="margin-bottom: 10px;">
+  <div style="display: flex; align-items: flex-start; flex-wrap: wrap;">
+    <div style="margin-right: 60px; margin-bottom: 10px;">
       <h3 style="color: #1a3a5f; margin: 0; font-size: 18px;">✉️ Let's Connect</h3>
       <p style="color: #95a5a6; font-size: 13px; margin: 5px 0 0 0;">Feel free to reach out for collaboration!</p>
     </div>
     
     <div style="padding-top: 5px;">
-      <a href="mailto:dungnguyen14396@gmail.com" style="text-decoration: none; color: #586069; font-size: 14px; margin-left: 25px; display: inline-block;">
+      <a href="mailto:dungnguyen14396@gmail.com" style="text-decoration: none; color: #586069; font-size: 14px; margin-right: 30px; display: inline-block;">
         <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="15" style="vertical-align: middle; filter: grayscale(100%); margin-right: 5px;"> dungnguyen14396@gmail.com
       </a>
-      <a href="https://linkedin.com/in/dungnguyen396" style="text-decoration: none; color: #586069; font-size: 14px; margin-left: 25px; display: inline-block;">
+      <a href="https://linkedin.com/in/dungnguyen396" style="text-decoration: none; color: #586069; font-size: 14px; margin-right: 30px; display: inline-block;">
         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="15" style="vertical-align: middle; filter: grayscale(100%); margin-right: 5px;"> linkedin.com/in/dungnguyen396
       </a>
-      <a href="YOUR_ZALO_LINK" style="text-decoration: none; color: #586069; font-size: 14px; margin-left: 25px; display: inline-block;">
+      <a href="YOUR_ZALO_LINK" style="text-decoration: none; color: #586069; font-size: 14px; display: inline-block;">
         <img src="https://cdn.simpleicons.org/zalo/000000" width="15" style="vertical-align: middle; margin-right: 5px;"> <b>Zalo</b>
       </a>
     </div>
