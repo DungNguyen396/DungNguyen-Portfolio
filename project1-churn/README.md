@@ -18,12 +18,12 @@
 
 <br>
 
-<h2 style="color: #455a64; padding-left: 10px; border-bottom: none;">❓ Exposing the Underlying Drivers</h2>
+<h2 style="color: #455a64; padding-left: 10px; border-bottom: none;">Exposing the Underlying Drivers ❓</h2>
 <p style="padding-left: 10px; color: #7f8c8d; font-style: italic; margin-bottom: 20px;">Shifting from descriptive statistics to proactive churn management:</p>
 
 <div style="width: 100%; display: flex; flex-direction: column; gap: 20px;">
   <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 8px 15px rgba(69, 90, 100, 0.08); position: relative; overflow: hidden;">
-    <div style="font-size: 30px; margin-right: 20px;">📊</div>
+    <div style="font-size: 30px; margin-right: 20px;"></div>
     <div style="flex: 1; z-index: 1;">
       <h4 style="color: #455a64; margin: 0; font-size: 16px; text-transform: uppercase;">Commercial Impact of Churn</h4>
       <p style="color: #444; margin: 5px 0 0 0; font-size: 15px;">Beyond the rate itself, what is the actual severity of churn in terms of revenue loss and market share erosion?</p>
@@ -31,7 +31,7 @@
     <div style="color: #eceff1; font-size: 55px; font-weight: 900; position: absolute; right: 10px; bottom: -12px; z-index: 0;">01</div>
   </div>
   <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 8px 15px rgba(69, 90, 100, 0.1); position: relative; overflow: hidden;">
-    <div style="font-size: 30px; margin-right: 20px;">🧠</div>
+    <div style="font-size: 30px; margin-right: 20px;"></div>
     <div style="flex: 1; z-index: 1;">
       <h4 style="color: #455a64; margin: 0; font-size: 16px; text-transform: uppercase;">Behavioral Breakpoints</h4>
       <p style="color: #444; margin: 5px 0 0 0; font-size: 15px;">What specific sequences of actions trigger a transition from a "Loyal" to an "At-Risk" state?</p>
@@ -39,7 +39,7 @@
     <div style="color: #cfd8dc; font-size: 55px; font-weight: 900; position: absolute; right: 10px; bottom: -12px; z-index: 0;">02</div>
   </div>
   <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 8px 15px rgba(69, 90, 100, 0.12); position: relative; overflow: hidden;">
-    <div style="font-size: 30px; margin-right: 20px;">🛰️</div>
+    <div style="font-size: 30px; margin-right: 20px;"></div>
     <div style="flex: 1; z-index: 1;">
       <h4 style="color: #455a64; margin: 0; font-size: 16px; text-transform: uppercase;">Early Warning Systems</h4>
       <p style="color: #444; margin: 5px 0 0 0; font-size: 15px;">How can we identify the "point of no return" to intervene effectively before the final transaction occurs?</p>
@@ -47,7 +47,7 @@
     <div style="color: #b0bec5; font-size: 55px; font-weight: 900; position: absolute; right: 10px; bottom: -12px; z-index: 0;">03</div>
   </div>
   <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 10px 18px rgba(69, 90, 100, 0.15); position: relative; overflow: hidden;">
-    <div style="font-size: 30px; margin-right: 20px;">🚀</div>
+    <div style="font-size: 30px; margin-right: 20px;"></div>
     <div style="flex: 1; z-index: 1;">
       <h4 style="color: #455a64; margin: 0; font-size: 16px; text-transform: uppercase;">Strategic Retention</h4>
       <p style="color: #444; margin: 5px 0 0 0; font-size: 15px;">How can churn prevention be personalized at scale to ensure costs align with lifetime value?</p>
