@@ -8,7 +8,7 @@
 <br>
 
 <div style="background-color: #f1f3f5; padding: 30px; border-radius: 15px; width: 100%;">
-  <div style="background-color: #ffffff; padding: 30px; border: 2px solid #455a64; border-radius: 12px; border-left: 10px solid #455a64; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+  <div style="background-color: #ffffff; padding: 30px; border: 1px solid #455a64; border-radius: 12px; border-left: 10px solid #455a64; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
     <h2 style="color: #455a64; margin-top: 0; border-bottom: none;">📌 Project Background</h2>
     <p style="color: #2c3e50; line-height: 1.8; font-size: 16px; text-align: justify; margin-bottom: 0;">
       This project was initiated following a request from the internal Data Analysis team to develop a robust predictive model for customer churn. The primary objective was to move beyond retrospective reporting and establish an early-warning system for the strategic departments. By identifying high-risk behavioral patterns before a customer actually leaves, the organization can proactively deploy retention campaigns. This analysis serves as the foundation for data-driven interventions aimed at stabilizing the customer base and protecting long-term revenue.
