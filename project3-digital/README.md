@@ -10,7 +10,7 @@
 <br>
 
 <div style="background-color: #f1f3f5; padding: 30px; border-radius: 15px; width: 100%">
-  <div style="background-color: #ffffff; padding: 30px; border-radius: 12px; border-left: 10px solid #1a3a5f; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+  <div style="background-color: #ffffff; padding: 30px; border: 1px solid #1a3a5f; border-radius: 12px; border-left: 10px solid #1a3a5f; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
     <h2 style="color: #1a3a5f; margin-top: 0; border-bottom: none;">📌 Project Background</h2>
     <p style="color: #2c3e50; line-height: 1.8; font-size: 16px; text-align: justify; margin-bottom: 0;">
       This project developed an ML-driven system to automate the manual advertising approval process. The objective was to establish an optimal probability threshold to filter out high-risk losses while retaining high-potential growth campaigns. The system scales operational capacity and ensures financial safety through real-time, data-driven decisioning.
