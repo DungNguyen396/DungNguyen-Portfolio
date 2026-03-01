@@ -24,7 +24,7 @@
 <p style="padding-left: 10px; color: #7f8c8d; font-style: italic; margin-bottom: 20px;">Optimizing decision logic for maximum automated efficiency:</p>
 
 <div style="width: 100%; display: flex; flex-direction: column; gap: 20px;">
-  <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 8px 15px rgba(26, 58, 95, 0.08); position: relative; overflow: hidden;">
+  <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 8px 15px rgba(26, 58, 95, 0.1); position: relative; overflow: hidden;">
     <div style="font-size: 30px; margin-right: 20px;"></div>
     <div style="flex: 1; z-index: 1;">
       <h4 style="color: #1a3a5f; margin: 0; font-size: 16px; text-transform: uppercase;">Profit Optimization</h4>
@@ -32,7 +32,7 @@
     </div>
     <div style="color: #f0f3f5; font-size: 55px; font-weight: 900; position: absolute; right: 10px; bottom: -12px; z-index: 0;">01</div>
   </div>
-  <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 8px 15px rgba(26, 58, 95, 0.1); position: relative; overflow: hidden;">
+  <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 8px 15px rgba(26, 58, 95, 0.12); position: relative; overflow: hidden;">
     <div style="font-size: 30px; margin-right: 20px;"></div>
     <div style="flex: 1; z-index: 1;">
       <h4 style="color: #1a3a5f; margin: 0; font-size: 16px; text-transform: uppercase;">Reliability</h4>
@@ -40,7 +40,7 @@
     </div>
     <div style="color: #e1e5e9; font-size: 55px; font-weight: 900; position: absolute; right: 10px; bottom: -12px; z-index: 0;">02</div>
   </div>
-  <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 8px 15px rgba(26, 58, 95, 0.12); position: relative; overflow: hidden;">
+  <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 8px 15px rgba(26, 58, 95, 0.14); position: relative; overflow: hidden;">
     <div style="font-size: 30px; margin-right: 20px;"></div>
     <div style="flex: 1; z-index: 1;">
       <h4 style="color: #1a3a5f; margin: 0; font-size: 16px; text-transform: uppercase;">Efficiency</h4>
@@ -48,7 +48,7 @@
     </div>
     <div style="color: #d1d9e0; font-size: 55px; font-weight: 900; position: absolute; right: 10px; bottom: -12px; z-index: 0;">03</div>
   </div>
-  <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 10px 18px rgba(26, 58, 95, 0.15); position: relative; overflow: hidden;">
+  <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 10px 18px rgba(26, 58, 95, 0.16); position: relative; overflow: hidden;">
     <div style="font-size: 30px; margin-right: 20px;"></div>
     <div style="flex: 1; z-index: 1;">
       <h4 style="color: #1a3a5f; margin: 0; font-size: 16px; text-transform: uppercase;">Transparency</h4>
@@ -71,7 +71,7 @@
     <p style="margin-top: 5px; color: #2c3e50;">Confirmed that the model’s risk assessments are highly reliable for live operations.</p>
   </div>
   <div style="background-color: #ffffff; padding: 18px; border-radius: 10px; border-left: 10px solid #738fad; margin-bottom: 20px; box-shadow: 0 8px 20px rgba(115, 143, 173, 0.5);">
-    <b style="color: #1a3a5f; font-size: 16px;">3. 92% Automation Rate</b>
+    <b style="color: #1a3a5f; font-size: 16px;">3. 93% Automation Rate</b>
     <p style="margin-top: 5px; color: #2c3e50;">Successfully automated the majority of approvals, maintaining an actual loss rate (14.9%) lower than the expected baseline (15.7%).</p>
   </div>
   <div style="background-color: #ffffff; padding: 18px; border-radius: 10px; border-left: 10px solid #446993; margin-bottom: 20px; box-shadow: 0 8px 20px rgba(68, 105, 147, 0.5);">
@@ -79,7 +79,7 @@
     <p style="margin-top: 5px; color: #2c3e50;">The "Manual Review" tier accurately isolated high-risk segments (80% loss rate) and automated top 3 risk factor extraction.</p>
   </div>
   <div style="background-color: #ffffff; padding: 18px; border-radius: 10px; border-left: 10px solid #1a3a5f; box-shadow: 0 8px 25px rgba(26, 58, 95, 0.3);">
-    <b style="color: #1a3a5f; font-size: 16px;">5. Measurable Profit Lift (+$15,239)</b>
+    <b style="color: #1a3a5f; font-size: 16px;">5. Measurable Profit Lift </b>
     <p style="margin-top: 5px; color: #2c3e50;">Generated significant profit increase by recovering campaigns previously misclassified by rigid manual rules.</p>
   </div>
 </div>
