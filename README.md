@@ -1,13 +1,19 @@
-# « NGUYEN THANH DUNG
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="22" style="vertical-align: middle;"> **TABLEAU** &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/looker" width="22" style="vertical-align: middle;"> **LOOKER STUDIO** &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="22" style="vertical-align: middle;"> **SQL** &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="22" style="vertical-align: middle;"> **PYTHON** &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="22" style="vertical-align: middle;"> **BIGQUERY**
+<div style="margin-bottom: 30px;">
+  <h1>« NGUYEN THANH DUNG</h1>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="22" style="vertical-align: middle;"> **TABLEAU** &nbsp;&nbsp; 
+  <img src="https://cdn.simpleicons.org/looker" width="22" style="vertical-align: middle;"> **LOOKER STUDIO** &nbsp;&nbsp; 
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="22" style="vertical-align: middle;"> **SQL** &nbsp;&nbsp; 
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="22" style="vertical-align: middle;"> **PYTHON** &nbsp;&nbsp; 
+  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="22" style="vertical-align: middle;"> **BIGQUERY**
+</div>
 
----
+<hr />
 
-<div style="background-color: #e9ecef; padding: 30px; border-radius: 15px; width: 100%;">
+<div style="background-color: #e9ecef; padding: 30px; border-radius: 15px; margin-bottom: 20px;">
   <div style="background-color: #ffffff; padding: 40px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0,0,0,0.1); border: 1px solid #d1d8e0;">
-    <table border="0" width="100%" style="width: 100%;">
+    <table border="0" width="100%">
       <tr>
-        <td width="75%" style="vertical-align: top; border: none; padding-right: 25px;">
+        <td width="70%" style="vertical-align: top; border: none; padding-right: 25px;">
           <h2 style="color: #1a3a5f; margin-top: 0; border-bottom: none;">👤 Hello, I'm Nguyen Dung 🎯</h2>
           <p style="color: #2c3e50; line-height: 1.8; font-size: 16px; text-align: justify;">
             Hi, I’m <b>Nguyen Thanh Dung</b> — a Finance & Banking specialist transitioning into the field of Data Analytics. With <b>7 years of experience</b> in the banking industry, including over 2 years dedicated to financial data analysis, I possess a unique vantage point: <b>I don’t just see the numbers, I understand the business logic and strategic drivers behind them.</b>
@@ -20,27 +26,20 @@
             In my view, it is the ability to think critically across domains. Deep expertise in one field is valuable, but fresh, multi-disciplinary perspectives are what often unlock the most innovative and actionable solutions. In an era of rapid innovation, this diversity of thought leads to better questions, more realistic modeling, and insights that actually move the needle for the business.
           </p>
         </td>
-<td width="25%" align="center" style="vertical-align: top; border: none; padding-top: 20px;">
-  <div style="border: 1px solid #d1d8e0; border-radius: 12px; padding: 5px; width: 160px; display: inline-block; background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
-    <img src="https://raw.githubusercontent.com/DungNguyen396/DungNguyen-Portfolio/main/avatar.png" 
-         width="150" 
-         style="border-radius: 8px; display: block;" 
-         alt="Nguyen Dung Avatar" />
-  </div>
-  <p style="font-size: 13px; color: #708090; margin-top: 15px; font-weight: bold; line-height: 1.4;">
-    <i>/ Finance / Operation /<br>Data Analyst /</i>
-  </p>
-</td>
+        <td width="30%" align="center" style="vertical-align: top; border: none; padding-top: 20px;">
+          <div style="border: 1px solid #d1d8e0; border-radius: 12px; padding: 5px; width: 160px; background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
+            <img src="https://raw.githubusercontent.com/DungNguyen396/DungNguyen-Portfolio/main/avatar.png" width="150" style="border-radius: 8px; display: block;" />
+          </div>
+          <p style="font-size: 13px; color: #708090; margin-top: 15px; font-weight: bold;"><i>/ Finance / Operation /<br>Data Analyst /</i></p>
+        </td>
       </tr>
     </table>
   </div>
 </div>
 
-<br>
-
-<div style="background-color: #e9ecef; padding: 25px; border-radius: 15px;">
+<div style="background-color: #e9ecef; padding: 25px; border-radius: 15px; margin-bottom: 20px;">
   <h2 style="color: #1a3a5f; margin-top: 0; padding-left: 10px; border-bottom: none;">📂 Projects & Insights</h2>
-  <table border="0" width="100%" style="width: 100%; border-collapse: separate; border-spacing: 15px 0;">
+  <table border="0" width="100%" style="border-collapse: separate; border-spacing: 15px 0;">
     <tr>
       <td width="33.33%" bgcolor="#ffffff" style="border-radius: 12px; border: 1px solid #d1d8e0; vertical-align: top; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
         <div style="background-color: #708090; height: 120px; border-top-left-radius: 12px; border-top-right-radius: 12px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center; padding: 10px; font-size: 18px;">Churn Prediction</div>
@@ -70,17 +69,30 @@
   </table>
 </div>
 
-<br>
-
-<div align="center" style="padding: 40px; background-color: #ffffff; border-radius: 15px; border: 1px solid #dee2e6; width: 100%;">
+<div style="padding: 40px; background-color: #ffffff; border-radius: 15px; border: 1px solid #dee2e6;">
   <h2 style="color: #1a3a5f; margin-top: 0; border-bottom: none;">✉️ Get In Touch</h2>
   <p style="color: #7f8c8d; margin-bottom: 25px;">Connect with me for insights or opportunities!</p>
   
-  <a href="mailto:dungnguyen14396@gmail.com"><img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://zalo.me/YOUR_PHONE"><img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" /></a>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td style="padding-bottom: 15px;">
+        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="18" style="vertical-align: middle; filter: grayscale(100%);"> 
+        &nbsp; <a href="mailto:dungnguyen14396@gmail.com" style="text-decoration: none; color: #2c3e50; font-family: sans-serif;">dungnguyen14396@gmail.com</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding-bottom: 15px;">
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="18" style="vertical-align: middle; filter: grayscale(100%);"> 
+        &nbsp; <a href="https://linkedin.com/in/YOUR_LINKEDIN" style="text-decoration: none; color: #2c3e50; font-family: sans-serif;">linkedin.com/in/dung-nguyen</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://simpleicons.org/icons/zalo.svg" width="18" style="vertical-align: middle; filter: grayscale(100%);"> 
+        &nbsp; <a href="LINK_ẢNH_QR_CỦA_BẠN_TẠI_ĐÂY" style="text-decoration: none; color: #2c3e50; font-family: sans-serif;">Scan Zalo QR Code</a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
