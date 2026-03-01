@@ -20,12 +20,12 @@
 
 <br>
 
-<h2 style="color: #1a3a5f; padding-left: 10px; border-bottom: none;">❓ Business Questions</h2>
+<h2 style="color: #1a3a5f; padding-left: 10px; border-bottom: none;">Exposing the Underlying Drivers ❓</h2>
 <p style="padding-left: 10px; color: #7f8c8d; font-style: italic; margin-bottom: 20px;">Optimizing decision logic for maximum automated efficiency:</p>
 
 <div style="width: 100%; display: flex; flex-direction: column; gap: 20px;">
   <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 8px 15px rgba(26, 58, 95, 0.08); position: relative; overflow: hidden;">
-    <div style="font-size: 30px; margin-right: 20px;">⚖️</div>
+    <div style="font-size: 30px; margin-right: 20px;"></div>
     <div style="flex: 1; z-index: 1;">
       <h4 style="color: #1a3a5f; margin: 0; font-size: 16px; text-transform: uppercase;">Profit Optimization</h4>
       <p style="color: #444; margin: 5px 0 0 0; font-size: 15px;">What is the optimal probability threshold that balances risk mitigation with maximum profit retention?</p>
@@ -33,7 +33,7 @@
     <div style="color: #f0f3f5; font-size: 55px; font-weight: 900; position: absolute; right: 10px; bottom: -12px; z-index: 0;">01</div>
   </div>
   <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 8px 15px rgba(26, 58, 95, 0.1); position: relative; overflow: hidden;">
-    <div style="font-size: 30px; margin-right: 20px;">🎯</div>
+    <div style="font-size: 30px; margin-right: 20px;"></div>
     <div style="flex: 1; z-index: 1;">
       <h4 style="color: #1a3a5f; margin: 0; font-size: 16px; text-transform: uppercase;">Reliability</h4>
       <p style="color: #444; margin: 5px 0 0 0; font-size: 15px;">How accurately does the model’s predicted loss probability (Brier Score) align with actual historical outcomes?</p>
@@ -41,7 +41,7 @@
     <div style="color: #e1e5e9; font-size: 55px; font-weight: 900; position: absolute; right: 10px; bottom: -12px; z-index: 0;">02</div>
   </div>
   <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 8px 15px rgba(26, 58, 95, 0.12); position: relative; overflow: hidden;">
-    <div style="font-size: 30px; margin-right: 20px;">⚡</div>
+    <div style="font-size: 30px; margin-right: 20px;"></div>
     <div style="flex: 1; z-index: 1;">
       <h4 style="color: #1a3a5f; margin: 0; font-size: 16px; text-transform: uppercase;">Efficiency</h4>
       <p style="color: #444; margin: 5px 0 0 0; font-size: 15px;">What percentage of the portfolio can be safely transitioned to an "Auto-Pass" state?</p>
@@ -49,7 +49,7 @@
     <div style="color: #d1d9e0; font-size: 55px; font-weight: 900; position: absolute; right: 10px; bottom: -12px; z-index: 0;">03</div>
   </div>
   <div style="display: flex; align-items: center; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #dee2e6; box-shadow: 0 10px 18px rgba(26, 58, 95, 0.15); position: relative; overflow: hidden;">
-    <div style="font-size: 30px; margin-right: 20px;">🔍</div>
+    <div style="font-size: 30px; margin-right: 20px;"></div>
     <div style="flex: 1; z-index: 1;">
       <h4 style="color: #1a3a5f; margin: 0; font-size: 16px; text-transform: uppercase;">Transparency</h4>
       <p style="color: #444; margin: 5px 0 0 0; font-size: 15px;">Which specific variables (Loss Drivers) are primarily responsible for a campaign being flagged or rejected?</p>
