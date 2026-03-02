@@ -6,7 +6,6 @@
     <title>Dung Nguyen - Portfolio</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown-light.min.css">
     <style>
-        /* Ép trang luôn ở chế độ Light Mode để giữ đúng mã màu của bạn */
         body {
             background-color: #ffffff !important;
             margin: 0;
@@ -16,20 +15,23 @@
         .markdown-body {
             box-sizing: border-box;
             min-width: 200px;
-            max-width: 1012px;
+            /* Tăng độ rộng từ 1012px lên 1200px để tràn sang hai bên */
+            max-width: 1200px; 
             margin: 0 auto;
-            padding: 45px;
+            /* Giảm padding hai bên để nội dung rộng hơn */
+            padding: 45px 20px; 
             background-color: #ffffff !important;
             color: #24292f !important;
         }
         @media (max-width: 767px) {
             .markdown-body { padding: 15px; }
         }
-        /* Xóa bỏ footer của GitHub */
+        /* Xóa bỏ hoàn toàn footer và các thành phần thừa của GitHub */
         footer, .site-footer, .gh-header-show-append { display: none !important; }
         
-        /* Giữ nguyên định dạng các thẻ của bạn */
+        /* Giữ nguyên các định dạng của bạn */
         .markdown-body h2 { border-bottom: none !important; }
+        table { background-color: transparent !important; }
     </style>
 </head>
 <body class="markdown-body">
@@ -46,9 +48,9 @@
 
 <div style="background-color: #e9ecef; padding: 30px; border-radius: 15px; margin-bottom: 20px;">
   <div style="background-color: #ffffff; padding: 40px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0,0,0,0.1); border: 1px solid #d1d8e0;">
-    <table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; background-color: transparent;">
+    <table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%;">
       <tr>
-        <td width="68%" style="vertical-align: top; border: none; padding-right: 30px; background-color: transparent;">
+        <td width="70%" style="vertical-align: top; border: none; padding-right: 30px;">
           <h2 style="color: #1a3a5f; margin-top: 0; border-bottom: none;">👤 About me </h2>
           <p style="color: #2c3e50; line-height: 1.8; font-size: 16px; text-align: justify;">
             Hi, I’m <b>Nguyen Thanh Dung</b> - a Finance & Banking specialist transitioning into the field of Data Analytics. With <b>7 years of experience</b> in the banking industry, including over 2 years dedicated to financial data analysis, I possess a unique vantage point: <b>I don’t just see the numbers, I understand the business logic and strategic drivers behind them.</b>
@@ -57,7 +59,7 @@
             Coming from a non-technical background, I view the rise of AI not as a challenge, but as a powerful equalizer. By leveraging AI to navigate technical complexities, I am able to redirect my focus toward what truly drives value: <b>precise problem framing, rigorous assumption testing, and strategic interpretation.</b>
           </p>
         </td>
-        <td width="32%" align="center" style="vertical-align: top; border: none; padding-top: 75px; background-color: transparent;">
+        <td width="30%" align="center" style="vertical-align: top; border: none; padding-top: 50px;">
           <div style="border: 1px solid #d1d8e0; border-radius: 12px; padding: 6px; width: 195px; background-color: white; box-shadow: 0 4px 10px rgba(0,0,0,0.08); display: inline-block;">
             <img src="https://raw.githubusercontent.com/DungNguyen396/DungNguyen-Portfolio/main/avatar.jpg" width="185" style="border-radius: 8px; display: block;" />
           </div>
@@ -77,7 +79,7 @@
 
 <div style="background-color: #e9ecef; padding: 25px; border-radius: 15px; margin-bottom: 25px;">
   <h2 style="color: #1a3a5f; margin-top: 0; padding-left: 10px; border-bottom: none;">📂 Projects & Insights</h2>
-  <table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: separate; border-spacing: 15px 0; background-color: transparent;">
+  <table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: separate; border-spacing: 15px 0; width: 100%;">
     <tr>
       <td width="33.33%" style="border-radius: 12px; border: 2px solid #708090; vertical-align: top; box-shadow: 0 4px 10px rgba(0,0,0,0.05); padding: 0; overflow: hidden; background-color: #ffffff;">
         <div style="background-color: #708090; height: 100px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center; font-size: 17px; margin: 0;">Churn Prediction</div>
