@@ -4,12 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Dung Nguyen - Portfolio</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown-light.min.css">
     <style>
+        /* Ép trang luôn ở chế độ Light Mode để giữ đúng mã màu của bạn */
         body {
-            background-color: #0d1117; /* Màu nền tối chuẩn của GitHub */
+            background-color: #ffffff !important;
             margin: 0;
             padding: 0;
+            font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
         }
         .markdown-body {
             box-sizing: border-box;
@@ -17,30 +19,17 @@
             max-width: 1012px;
             margin: 0 auto;
             padding: 45px;
-            background-color: #0d1117; /* Đảm bảo nền luôn tối */
-            color: #c9d1d9;
+            background-color: #ffffff !important;
+            color: #24292f !important;
         }
-        /* Fix màu sắc cho các thẻ div tùy chỉnh của bạn */
-        .markdown-body div[style*="background-color: #e9ecef"] {
-            background-color: #161b22 !important; /* Màu xám tối của GitHub */
-            color: #c9d1d9 !important;
+        @media (max-width: 767px) {
+            .markdown-body { padding: 15px; }
         }
-        .markdown-body div[style*="background-color: #ffffff"] {
-            background-color: #0d1117 !important; /* Màu nền trong box */
-            border: 1px solid #30363d !important;
-        }
-        .markdown-body h2, .markdown-body h3, .markdown-body h4 {
-            color: #58a6ff !important; /* Màu xanh tiêu đề GitHub */
-            border-bottom: 1px solid #21262d;
-        }
-        .markdown-body p, .markdown-body td {
-            color: #8b949e !important;
-        }
-        .markdown-body b, .markdown-body strong {
-            color: #f0f6fc !important;
-        }
-        /* Ẩn triệt để footer */
-        footer, .site-footer { display: none !important; }
+        /* Xóa bỏ footer của GitHub */
+        footer, .site-footer, .gh-header-show-append { display: none !important; }
+        
+        /* Giữ nguyên định dạng các thẻ của bạn */
+        .markdown-body h2 { border-bottom: none !important; }
     </style>
 </head>
 <body class="markdown-body">
@@ -53,73 +42,95 @@
   <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="22" style="vertical-align: middle;"> <b>BIGQUERY</b>
 </div>
 
-<hr style="border: 0.5px solid #30363d; margin-bottom: 30px;" />
+<hr style="border: 0.5px solid #eee; margin-bottom: 30px;" />
 
-<div style="background-color: #161b22; padding: 30px; border-radius: 15px; margin-bottom: 20px;">
-  <div style="background-color: #0d1117; padding: 40px; border-radius: 12px; border: 1px solid #30363d;">
-    <table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+<div style="background-color: #e9ecef; padding: 30px; border-radius: 15px; margin-bottom: 20px;">
+  <div style="background-color: #ffffff; padding: 40px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0,0,0,0.1); border: 1px solid #d1d8e0;">
+    <table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; background-color: transparent;">
       <tr>
-        <td width="68%" style="vertical-align: top; border: none; padding-right: 30px;">
-          <h2 style="margin-top: 0; border-bottom: none;">👤 About me </h2>
-          <p style="line-height: 1.8; font-size: 16px; text-align: justify;">
-            Hi, I’m <b>Nguyen Thanh Dung</b> - a Finance & Banking specialist transitioning into the field of Data Analytics. With <b>7 years of experience</b> in the banking industry, bao gồm hơn 2 năm phân tích dữ liệu tài chính.
+        <td width="68%" style="vertical-align: top; border: none; padding-right: 30px; background-color: transparent;">
+          <h2 style="color: #1a3a5f; margin-top: 0; border-bottom: none;">👤 About me </h2>
+          <p style="color: #2c3e50; line-height: 1.8; font-size: 16px; text-align: justify;">
+            Hi, I’m <b>Nguyen Thanh Dung</b> - a Finance & Banking specialist transitioning into the field of Data Analytics. With <b>7 years of experience</b> in the banking industry, including over 2 years dedicated to financial data analysis, I possess a unique vantage point: <b>I don’t just see the numbers, I understand the business logic and strategic drivers behind them.</b>
           </p>
-          <p style="line-height: 1.8; font-size: 16px; text-align: justify;">
-            Tôi coi sự trỗi dậy của AI là một công cụ cân bằng mạnh mẽ, giúp tôi tập trung vào: <b>đặt vấn đề chính xác, kiểm chứng giả thuyết và diễn giải chiến lược.</b>
+          <p style="color: #2c3e50; line-height: 1.8; font-size: 16px; text-align: justify;">
+            Coming from a non-technical background, I view the rise of AI not as a challenge, but as a powerful equalizer. By leveraging AI to navigate technical complexities, I am able to redirect my focus toward what truly drives value: <b>precise problem framing, rigorous assumption testing, and strategic interpretation.</b>
           </p>
         </td>
-        <td width="32%" align="center" style="vertical-align: top; border: none; padding-top: 75px;">
-          <div style="border: 1px solid #30363d; border-radius: 12px; padding: 6px; width: 195px; background-color: #161b22; display: inline-block;">
+        <td width="32%" align="center" style="vertical-align: top; border: none; padding-top: 75px; background-color: transparent;">
+          <div style="border: 1px solid #d1d8e0; border-radius: 12px; padding: 6px; width: 195px; background-color: white; box-shadow: 0 4px 10px rgba(0,0,0,0.08); display: inline-block;">
             <img src="https://raw.githubusercontent.com/DungNguyen396/DungNguyen-Portfolio/main/avatar.jpg" width="185" style="border-radius: 8px; display: block;" />
           </div>
-          <p style="font-size: 13px; color: #8b949e; margin-top: 15px; font-weight: bold; line-height: 1.4;"><i> Finance / Operation /<br>Data Analyst </i></p>
+          <p style="font-size: 13px; color: #708090; margin-top: 15px; font-weight: bold; line-height: 1.4;"><i> Finance / Operation /<br>Data Analyst </i></p>
         </td>
       </tr>
     </table>
+    
+    <div style="margin-top: 30px;">
+        <p style="color: #1a3a5f; font-weight: bold; font-size: 18px; margin-bottom: 12px;">What sets a Data Analyst apart in today’s landscape?</p>
+        <div style="color: #2c3e50; line-height: 1.8; font-size: 16px; text-align: justify; font-style: italic; background-color: #f1f3f5; padding: 25px; border-left: 8px solid #1a3a5f; border-radius: 5px;">
+          In my view, it is the ability to think critically across domains. Deep expertise in one field is valuable, but fresh, multi-disciplinary perspectives are what often unlock the most innovative and actionable solutions. In an era of rapid innovation, this diversity of thought leads to better questions, more realistic modeling, and insights that actually move the needle for the business.
+        </div>
+    </div>
   </div>
 </div>
 
-<div style="background-color: #161b22; padding: 25px; border-radius: 15px; margin-bottom: 25px;">
-  <h2 style="margin-top: 0; padding-left: 10px; border-bottom: none;">📂 Projects & Insights</h2>
-  <table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: separate; border-spacing: 15px 0;">
+<div style="background-color: #e9ecef; padding: 25px; border-radius: 15px; margin-bottom: 25px;">
+  <h2 style="color: #1a3a5f; margin-top: 0; padding-left: 10px; border-bottom: none;">📂 Projects & Insights</h2>
+  <table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: separate; border-spacing: 15px 0; background-color: transparent;">
     <tr>
-      <td width="33.33%" style="border-radius: 12px; border: 2px solid #30363d; vertical-align: top; padding: 0; overflow: hidden; background-color: #0d1117;">
-        <div style="background-color: #30363d; height: 100px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center;">Churn Prediction</div>
+      <td width="33.33%" style="border-radius: 12px; border: 2px solid #708090; vertical-align: top; box-shadow: 0 4px 10px rgba(0,0,0,0.05); padding: 0; overflow: hidden; background-color: #ffffff;">
+        <div style="background-color: #708090; height: 100px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center; font-size: 17px; margin: 0;">Churn Prediction</div>
         <div style="padding: 20px;">
-          <h4 style="margin: 0;">Churn Probability</h4>
-          <p style="font-size: 14px; min-height: 50px;">Behavioral analysis & predictive models.</p>
-          <a href="project1-churn/" style="color: #58a6ff; text-decoration: none; font-weight: bold;">➔ View Details</a>
+          <h4 style="margin: 0; color: #1a3a5f; font-size: 17px;">Churn Probability</h4>
+          <p style="font-size: 14px; color: #586069; min-height: 50px; line-height: 1.5;">Behavioral analysis & predictive models.</p>
+          <a href="project1-churn/" style="color: #4682B4; text-decoration: none; font-weight: bold; font-size: 13px;">➔ View Details</a>
         </div>
       </td>
-      <td width="33.33%" style="border-radius: 12px; border: 2px solid #58a6ff; vertical-align: top; padding: 0; overflow: hidden; background-color: #0d1117;">
-        <div style="background-color: #58a6ff; height: 100px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center;">Card Portfolio</div>
+      
+      <td width="33.33%" style="border-radius: 12px; border: 2px solid #4682B4; vertical-align: top; box-shadow: 0 4px 10px rgba(0,0,0,0.05); padding: 0; overflow: hidden; background-color: #ffffff;">
+        <div style="background-color: #4682B4; height: 100px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center; font-size: 17px; margin: 0;">Card Portfolio</div>
         <div style="padding: 20px;">
-          <h4 style="margin: 0;">Card Value</h4>
-          <p style="font-size: 14px; min-height: 50px;">Sustainability analysis & DTI metrics.</p>
-          <a href="project2-card/" style="color: #58a6ff; text-decoration: none; font-weight: bold;">➔ View Details</a>
+          <h4 style="margin: 0; color: #1a3a5f; font-size: 17px;">Card Value</h4>
+          <p style="font-size: 14px; color: #586069; min-height: 50px; line-height: 1.5;">Sustainability analysis & DTI metrics.</p>
+          <a href="project2-card/" style="color: #4682B4; text-decoration: none; font-weight: bold; font-size: 13px;">➔ View Details</a>
         </div>
       </td>
-      <td width="33.33%" style="border-radius: 12px; border: 2px solid #1f6feb; vertical-align: top; padding: 0; overflow: hidden; background-color: #0d1117;">
-        <div style="background-color: #1f6feb; height: 100px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center;">Auto Approval</div>
+      
+      <td width="33.33%" style="border-radius: 12px; border: 2px solid #1a3a5f; vertical-align: top; box-shadow: 0 4px 10px rgba(0,0,0,0.05); padding: 0; overflow: hidden; background-color: #ffffff;">
+        <div style="background-color: #1a3a5f; height: 100px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; text-align: center; font-size: 17px; margin: 0;">Auto Approval</div>
         <div style="padding: 20px;">
-          <h4 style="margin: 0;">Digital Ad Flow</h4>
-          <p style="font-size: 14px; min-height: 50px;">Decision engine automating approvals.</p>
-          <a href="project3-digital/" style="color: #58a6ff; text-decoration: none; font-weight: bold;">➔ View Details</a>
+          <h4 style="margin: 0; color: #1a3a5f; font-size: 18px;">Digital Ad Flow</h4>
+          <p style="font-size: 14px; color: #586069; min-height: 50px; line-height: 1.5;">Decision engine automating approvals.</p>
+          <a href="project3-digital/" style="color: #4682B4; text-decoration: none; font-weight: bold; font-size: 13px;">➔ View Details</a>
         </div>
       </td>
     </tr>
   </table>
 </div>
 
-<div style="padding: 20px 10px; border-top: 1px solid #30363d; margin-top: 40px;">
-  <h3 style="margin: 0;">✉️ Contact info</h3>
-  <div style="margin-top: 15px;">
-      <a href="mailto:dungnt0396@gmail.com" style="color: #8b949e; text-decoration: none; margin-right: 20px;">Email: dungnt0396@gmail.com</a>
-      <a href="zalo.html" style="color: #8b949e; text-decoration: none;">Zalo: Liên hệ qua Zalo</a>
+<div style="padding: 20px 10px; border-top: 1px solid #eee; margin-top: 40px;">
+  <div style="display: flex; align-items: flex-start; flex-wrap: wrap;">
+    <div style="margin-right: 60px; margin-bottom: 10px;">
+      <h3 style="color: #1a3a5f; margin: 0; font-size: 18px;">✉️ Contact info</h3>
+      <p style="color: #95a5a6; font-size: 13px; margin: 5px 0 0 0;">Feel free to reach out for collaboration!</p>
+    </div>
+    
+    <div style="padding-top: 5px;">
+      <a href="mailto:dungnguyen14396@gmail.com" style="text-decoration: none; color: #586069; font-size: 14px; margin-right: 30px; display: inline-block;">
+        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="15" style="vertical-align: middle; filter: grayscale(100%); margin-right: 5px;"> dungnt0396@gmail.com
+      </a>
+      <a href="http://www.linkedin.com/in/dung-nguyen-thanh-40aab7315" style="text-decoration: none; color: #586069; font-size: 14px; margin-right: 30px; display: inline-block;">
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="15" style="vertical-align: middle; filter: grayscale(100%); margin-right: 5px;"> linkedin.com/in/dungnguyen396
+      </a>
+      <a href="zalo.html" style="text-decoration: none; color: #586069; font-size: 14px; display: inline-block;">
+        <img src="https://cdn.simpleicons.org/zalo/000000" width="15" style="vertical-align: middle; margin-right: 5px;"> <b>Zalo</b>
+      </a>
+    </div>
   </div>
 </div>
 
-<div align="center" style="color: #484f58; font-size: 12px; padding: 30px 0;">
+<div align="center" style="color: #bdc3c7; font-size: 12px; padding: 30px 0;">
   <b>© 2026 Dung Nguyen Portfolio</b>
 </div>
 
