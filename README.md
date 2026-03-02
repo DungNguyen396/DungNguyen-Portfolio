@@ -16,7 +16,7 @@
         <td width="68%" style="vertical-align: top; border: none; padding-right: 30px;">
           <h2 style="color: #1a3a5f; margin-top: 0; border-bottom: none;">👤 About me </h2>
           <p style="color: #2c3e50; line-height: 1.8; font-size: 16px; text-align: justify;">
-            Hi, I’m <b>Nguyen Thanh Dung</b> — a Finance & Banking specialist transitioning into the field of Data Analytics. With <b>7 years of experience</b> in the banking industry, including over 2 years dedicated to financial data analysis, I possess a unique vantage point: <b>I don’t just see the numbers, I understand the business logic and strategic drivers behind them.</b>
+            Hi, I’m <b>Nguyen Thanh Dung</b> - a Finance & Banking specialist transitioning into the field of Data Analytics. With <b>7 years of experience</b> in the banking industry, including over 2 years dedicated to financial data analysis, I possess a unique vantage point: <b>I don’t just see the numbers, I understand the business logic and strategic drivers behind them.</b>
           </p>
           <p style="color: #2c3e50; line-height: 1.8; font-size: 16px; text-align: justify;">
             Coming from a non-technical background, I view the rise of AI not as a challenge, but as a powerful equalizer. By leveraging AI to navigate technical complexities, I am able to redirect my focus toward what truly drives value: <b>precise problem framing, rigorous assumption testing, and strategic interpretation.</b>
