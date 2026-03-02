@@ -24,7 +24,7 @@
         </td>
         <td width="32%" align="center" style="vertical-align: top; border: none; padding-top: 75px;">
           <div style="border: 1px solid #d1d8e0; border-radius: 12px; padding: 6px; width: 195px; background-color: white; box-shadow: 0 4px 10px rgba(0,0,0,0.08); display: inline-block;">
-            <img src="https://raw.githubusercontent.com/DungNguyen396/DungNguyen-Portfolio/main/avatar.png" width="185" style="border-radius: 8px; display: block;" />
+            <img src="https://raw.githubusercontent.com/DungNguyen396/DungNguyen-Portfolio/main/avatar.jpg" width="185" style="border-radius: 8px; display: block;" />
           </div>
           <p style="font-size: 13px; color: #708090; margin-top: 15px; font-weight: bold; line-height: 1.4;"><i> Finance / Operation /<br>Data Analyst </i></p>
         </td>
